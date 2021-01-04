@@ -1,4 +1,0 @@
-
-http://db.apache.org/derby/papers/DerbyTut/ij_intro.html
-
-http://www.sis.pitt.edu/mbsclass/is2560/resources/UsingDerbyandDBMSinServlets.pdf

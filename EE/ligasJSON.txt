@@ -1,8 +1,0 @@
-Bibliotecas JSON más polpulares:
-
-https://www.json.org/json-en.html
-
-Requiere las bibliotecas de logging de apache:
-
-https://commons.apache.org/proper/commons-logging/download_logging.cgi
-
