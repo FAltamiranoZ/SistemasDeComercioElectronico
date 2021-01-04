@@ -1,0 +1,1053 @@
+Muy Detallado:   client acquired: 196325513
+Muy Detallado:   TX binding to tx mgr, status=STATUS_ACTIVE
+Muy Detallado:   acquire unit of work: 148675962
+Más Detallado:   persist() operation called on: entities.Category[ id=null ].
+Muy Detallado:   TX beforeCompletion callback, status=STATUS_ACTIVE
+Muy Detallado:   begin unit of work commit
+Muy Detallado:   TX beginTransaction, status=STATUS_ACTIVE
+Más Detallado:   Execute query InsertObjectQuery(entities.Category[ id=null ])
+Más Detallado:   Connection acquired from connection pool [default].
+Más Detallado:   reconnecting to external connection pool
+Detallado:   INSERT INTO CATEGORY (NAME) VALUES (?)
+	bind => [1 parameter bound]
+Más Detallado:   Execute query ValueReadQuery(name="SEQ_GEN_IDENTITY" sql="values IDENTITY_VAL_LOCAL()")
+Detallado:   values IDENTITY_VAL_LOCAL()
+Más Detallado:   assign sequence to the object (33 -> entities.Category[ id=null ])
+Más Detallado:   Connection released to connection pool [default].
+Muy Detallado:   TX afterCompletion callback, status=COMMITTED
+Muy Detallado:   end unit of work commit
+Muy Detallado:   release unit of work
+Muy Detallado:   client released
+Grave:   El id del nuevo cliente es entities.Category[ id=33 ]
+Muy Detallado:   client acquired: 375924569
+Muy Detallado:   TX binding to tx mgr, status=STATUS_ACTIVE
+Muy Detallado:   acquire unit of work: 639639629
+Muy Detallado:   begin unit of work flush
+Muy Detallado:   end unit of work flush
+Más Detallado:   Execute query ReadAllQuery(referenceClass=Category )
+Más Detallado:   Connection acquired from connection pool [read].
+Más Detallado:   reconnecting to external connection pool
+Detallado:   SELECT ID, NAME FROM CATEGORY
+Más Detallado:   Connection released to connection pool [read].
+Muy Detallado:   TX beforeCompletion callback, status=STATUS_ACTIVE
+Muy Detallado:   begin unit of work commit
+Muy Detallado:   TX afterCompletion callback, status=COMMITTED
+Muy Detallado:   end unit of work commit
+Muy Detallado:   release unit of work
+Muy Detallado:   client released
+Muy Detallado:   client acquired: 1082810923
+Muy Detallado:   TX binding to tx mgr, status=STATUS_ACTIVE
+Muy Detallado:   acquire unit of work: 1375887932
+Más Detallado:   persist() operation called on: entities.Product[ id=null ].
+Muy Detallado:   TX beforeCompletion callback, status=STATUS_ACTIVE
+Muy Detallado:   begin unit of work commit
+Más Detallado:   Execute query DoesExistQuery(referenceClass=Category )
+Muy Detallado:   TX beginTransaction, status=STATUS_ACTIVE
+Más Detallado:   Execute query InsertObjectQuery(entities.Product[ id=null ])
+Más Detallado:   Connection acquired from connection pool [default].
+Más Detallado:   reconnecting to external connection pool
+Detallado:   INSERT INTO PRODUCT (DESCRIPTION, LAST_UPDATE, NAME, PRICE, CATEGORY_ID) VALUES (?, ?, ?, ?, ?)
+	bind => [5 parameters bound]
+Más Detallado:   Execute query ValueReadQuery(name="SEQ_GEN_IDENTITY" sql="values IDENTITY_VAL_LOCAL()")
+Detallado:   values IDENTITY_VAL_LOCAL()
+Más Detallado:   assign sequence to the object (106 -> entities.Product[ id=null ])
+Más Detallado:   Connection released to connection pool [default].
+Muy Detallado:   TX afterCompletion callback, status=COMMITTED
+Muy Detallado:   end unit of work commit
+Muy Detallado:   release unit of work
+Muy Detallado:   client released
+Grave:   El id del nuevo cliente es entities.Product[ id=106 ]
+Muy Detallado:   client acquired: 1744159972
+Muy Detallado:   TX binding to tx mgr, status=STATUS_ACTIVE
+Muy Detallado:   acquire unit of work: 1936775866
+Más Detallado:   persist() operation called on: entities.Product[ id=null ].
+Muy Detallado:   TX beforeCompletion callback, status=STATUS_ACTIVE
+Muy Detallado:   begin unit of work commit
+Más Detallado:   Execute query DoesExistQuery(referenceClass=Category )
+Muy Detallado:   TX beginTransaction, status=STATUS_ACTIVE
+Más Detallado:   Execute query InsertObjectQuery(entities.Product[ id=null ])
+Más Detallado:   Connection acquired from connection pool [default].
+Más Detallado:   reconnecting to external connection pool
+Detallado:   INSERT INTO PRODUCT (DESCRIPTION, LAST_UPDATE, NAME, PRICE, CATEGORY_ID) VALUES (?, ?, ?, ?, ?)
+	bind => [5 parameters bound]
+Más Detallado:   Execute query ValueReadQuery(name="SEQ_GEN_IDENTITY" sql="values IDENTITY_VAL_LOCAL()")
+Detallado:   values IDENTITY_VAL_LOCAL()
+Más Detallado:   assign sequence to the object (107 -> entities.Product[ id=null ])
+Más Detallado:   Connection released to connection pool [default].
+Muy Detallado:   TX afterCompletion callback, status=COMMITTED
+Muy Detallado:   end unit of work commit
+Muy Detallado:   release unit of work
+Muy Detallado:   client released
+Grave:   El id del nuevo cliente es entities.Product[ id=107 ]
+Muy Detallado:   client acquired: 582726370
+Muy Detallado:   TX binding to tx mgr, status=STATUS_ACTIVE
+Muy Detallado:   acquire unit of work: 1143964262
+Más Detallado:   persist() operation called on: entities.Product[ id=null ].
+Muy Detallado:   TX beforeCompletion callback, status=STATUS_ACTIVE
+Muy Detallado:   begin unit of work commit
+Más Detallado:   Execute query DoesExistQuery(referenceClass=Category )
+Muy Detallado:   TX beginTransaction, status=STATUS_ACTIVE
+Más Detallado:   Execute query InsertObjectQuery(entities.Product[ id=null ])
+Más Detallado:   Connection acquired from connection pool [default].
+Más Detallado:   reconnecting to external connection pool
+Detallado:   INSERT INTO PRODUCT (DESCRIPTION, LAST_UPDATE, NAME, PRICE, CATEGORY_ID) VALUES (?, ?, ?, ?, ?)
+	bind => [5 parameters bound]
+Más Detallado:   Execute query ValueReadQuery(name="SEQ_GEN_IDENTITY" sql="values IDENTITY_VAL_LOCAL()")
+Detallado:   values IDENTITY_VAL_LOCAL()
+Más Detallado:   assign sequence to the object (108 -> entities.Product[ id=null ])
+Más Detallado:   Connection released to connection pool [default].
+Muy Detallado:   TX afterCompletion callback, status=COMMITTED
+Muy Detallado:   end unit of work commit
+Muy Detallado:   release unit of work
+Muy Detallado:   client released
+Grave:   El id del nuevo cliente es entities.Product[ id=108 ]
+Muy Detallado:   client acquired: 2134233687
+Muy Detallado:   TX binding to tx mgr, status=STATUS_ACTIVE
+Muy Detallado:   acquire unit of work: 1610590432
+Muy Detallado:   begin unit of work flush
+Muy Detallado:   end unit of work flush
+Más Detallado:   Execute query ReadAllQuery(referenceClass=Product )
+Más Detallado:   Connection acquired from connection pool [read].
+Más Detallado:   reconnecting to external connection pool
+Detallado:   SELECT ID, DESCRIPTION, LAST_UPDATE, NAME, PRICE, CATEGORY_ID FROM PRODUCT
+Más Detallado:   Connection released to connection pool [read].
+Más Detallado:   Register the existing object entities.Category[ id=1 ]
+Más Detallado:   Register the existing object entities.Category[ id=1 ]
+Más Detallado:   Register the existing object entities.Category[ id=1 ]
+Más Detallado:   Register the existing object entities.Category[ id=1 ]
+Más Detallado:   Register the existing object entities.Category[ id=2 ]
+Más Detallado:   Register the existing object entities.Category[ id=2 ]
+Más Detallado:   Register the existing object entities.Category[ id=2 ]
+Más Detallado:   Register the existing object entities.Category[ id=2 ]
+Más Detallado:   Register the existing object entities.Category[ id=3 ]
+Más Detallado:   Register the existing object entities.Category[ id=3 ]
+Más Detallado:   Register the existing object entities.Category[ id=3 ]
+Más Detallado:   Register the existing object entities.Category[ id=3 ]
+Más Detallado:   Register the existing object entities.Category[ id=4 ]
+Más Detallado:   Register the existing object entities.Category[ id=4 ]
+Más Detallado:   Register the existing object entities.Category[ id=4 ]
+Más Detallado:   Register the existing object entities.Category[ id=4 ]
+Más Detallado:   Register the existing object entities.Category[ id=1 ]
+Más Detallado:   Register the existing object entities.Category[ id=1 ]
+Más Detallado:   Register the existing object entities.Category[ id=1 ]
+Más Detallado:   Register the existing object entities.Category[ id=1 ]
+Más Detallado:   Register the existing object entities.Category[ id=1 ]
+Más Detallado:   Register the existing object entities.Category[ id=1 ]
+Más Detallado:   Register the existing object entities.Category[ id=1 ]
+Más Detallado:   Register the existing object entities.Category[ id=1 ]
+Más Detallado:   Register the existing object entities.Category[ id=1 ]
+Más Detallado:   Register the existing object entities.Category[ id=1 ]
+Más Detallado:   Register the existing object entities.Category[ id=1 ]
+Más Detallado:   Register the existing object entities.Category[ id=7 ]
+Más Detallado:   Register the existing object entities.Category[ id=7 ]
+Más Detallado:   Register the existing object entities.Category[ id=7 ]
+Más Detallado:   Register the existing object entities.Category[ id=8 ]
+Más Detallado:   Register the existing object entities.Category[ id=8 ]
+Más Detallado:   Register the existing object entities.Category[ id=8 ]
+Más Detallado:   Register the existing object entities.Category[ id=9 ]
+Más Detallado:   Register the existing object entities.Category[ id=9 ]
+Más Detallado:   Register the existing object entities.Category[ id=9 ]
+Más Detallado:   Register the existing object entities.Category[ id=10 ]
+Más Detallado:   Register the existing object entities.Category[ id=10 ]
+Más Detallado:   Register the existing object entities.Category[ id=10 ]
+Más Detallado:   Register the existing object entities.Category[ id=11 ]
+Más Detallado:   Register the existing object entities.Category[ id=11 ]
+Más Detallado:   Register the existing object entities.Category[ id=11 ]
+Más Detallado:   Register the existing object entities.Category[ id=12 ]
+Más Detallado:   Register the existing object entities.Category[ id=12 ]
+Más Detallado:   Register the existing object entities.Category[ id=12 ]
+Más Detallado:   Register the existing object entities.Category[ id=13 ]
+Más Detallado:   Register the existing object entities.Category[ id=13 ]
+Más Detallado:   Register the existing object entities.Category[ id=13 ]
+Más Detallado:   Register the existing object entities.Category[ id=14 ]
+Más Detallado:   Register the existing object entities.Category[ id=14 ]
+Más Detallado:   Register the existing object entities.Category[ id=14 ]
+Más Detallado:   Register the existing object entities.Category[ id=15 ]
+Más Detallado:   Register the existing object entities.Category[ id=15 ]
+Más Detallado:   Register the existing object entities.Category[ id=15 ]
+Más Detallado:   Register the existing object entities.Category[ id=16 ]
+Más Detallado:   Register the existing object entities.Category[ id=16 ]
+Más Detallado:   Register the existing object entities.Category[ id=16 ]
+Más Detallado:   Register the existing object entities.Category[ id=17 ]
+Más Detallado:   Register the existing object entities.Category[ id=17 ]
+Más Detallado:   Register the existing object entities.Category[ id=17 ]
+Más Detallado:   Register the existing object entities.Category[ id=18 ]
+Más Detallado:   Register the existing object entities.Category[ id=18 ]
+Más Detallado:   Register the existing object entities.Category[ id=18 ]
+Más Detallado:   Register the existing object entities.Category[ id=19 ]
+Más Detallado:   Register the existing object entities.Category[ id=19 ]
+Más Detallado:   Register the existing object entities.Category[ id=19 ]
+Más Detallado:   Register the existing object entities.Category[ id=20 ]
+Más Detallado:   Register the existing object entities.Category[ id=20 ]
+Más Detallado:   Register the existing object entities.Category[ id=20 ]
+Más Detallado:   Register the existing object entities.Category[ id=21 ]
+Más Detallado:   Register the existing object entities.Category[ id=21 ]
+Más Detallado:   Register the existing object entities.Category[ id=21 ]
+Más Detallado:   Register the existing object entities.Category[ id=22 ]
+Más Detallado:   Register the existing object entities.Category[ id=22 ]
+Más Detallado:   Register the existing object entities.Category[ id=22 ]
+Más Detallado:   Register the existing object entities.Category[ id=23 ]
+Más Detallado:   Register the existing object entities.Category[ id=23 ]
+Más Detallado:   Register the existing object entities.Category[ id=23 ]
+Más Detallado:   Register the existing object entities.Category[ id=24 ]
+Más Detallado:   Register the existing object entities.Category[ id=24 ]
+Más Detallado:   Register the existing object entities.Category[ id=24 ]
+Más Detallado:   Register the existing object entities.Category[ id=25 ]
+Más Detallado:   Register the existing object entities.Category[ id=25 ]
+Más Detallado:   Register the existing object entities.Category[ id=25 ]
+Más Detallado:   Register the existing object entities.Category[ id=26 ]
+Más Detallado:   Register the existing object entities.Category[ id=26 ]
+Más Detallado:   Register the existing object entities.Category[ id=26 ]
+Más Detallado:   Register the existing object entities.Category[ id=27 ]
+Más Detallado:   Register the existing object entities.Category[ id=27 ]
+Más Detallado:   Register the existing object entities.Category[ id=27 ]
+Más Detallado:   Register the existing object entities.Category[ id=28 ]
+Más Detallado:   Register the existing object entities.Category[ id=28 ]
+Más Detallado:   Register the existing object entities.Category[ id=28 ]
+Más Detallado:   Register the existing object entities.Category[ id=29 ]
+Más Detallado:   Register the existing object entities.Category[ id=29 ]
+Más Detallado:   Register the existing object entities.Category[ id=29 ]
+Más Detallado:   Register the existing object entities.Category[ id=30 ]
+Más Detallado:   Register the existing object entities.Category[ id=30 ]
+Más Detallado:   Register the existing object entities.Category[ id=30 ]
+Más Detallado:   Register the existing object entities.Category[ id=31 ]
+Más Detallado:   Register the existing object entities.Category[ id=31 ]
+Más Detallado:   Register the existing object entities.Category[ id=31 ]
+Más Detallado:   Register the existing object entities.Category[ id=32 ]
+Más Detallado:   Register the existing object entities.Category[ id=32 ]
+Más Detallado:   Register the existing object entities.Category[ id=32 ]
+Más Detallado:   Register the existing object entities.Category[ id=33 ]
+Más Detallado:   Register the existing object entities.Category[ id=33 ]
+Más Detallado:   Register the existing object entities.Category[ id=33 ]
+Muy Detallado:   TX beforeCompletion callback, status=STATUS_ACTIVE
+Muy Detallado:   begin unit of work commit
+Muy Detallado:   TX afterCompletion callback, status=COMMITTED
+Muy Detallado:   end unit of work commit
+Muy Detallado:   release unit of work
+Muy Detallado:   client released
+Muy Detallado:   client acquired: 733381721
+Muy Detallado:   TX binding to tx mgr, status=STATUS_ACTIVE
+Muy Detallado:   acquire unit of work: 1836788689
+Más Detallado:   persist() operation called on: entities.Customer[ id=null ].
+Muy Detallado:   TX beforeCompletion callback, status=STATUS_ACTIVE
+Muy Detallado:   begin unit of work commit
+Muy Detallado:   TX beginTransaction, status=STATUS_ACTIVE
+Más Detallado:   Execute query InsertObjectQuery(entities.Customer[ id=null ])
+Más Detallado:   Connection acquired from connection pool [default].
+Más Detallado:   reconnecting to external connection pool
+Detallado:   INSERT INTO CUSTOMER (ADDRESS, CC_NUMBER, CITY_REGION, EMAIL, NAME, PHONE) VALUES (?, ?, ?, ?, ?, ?)
+	bind => [6 parameters bound]
+Más Detallado:   Execute query ValueReadQuery(name="SEQ_GEN_IDENTITY" sql="values IDENTITY_VAL_LOCAL()")
+Detallado:   values IDENTITY_VAL_LOCAL()
+Más Detallado:   assign sequence to the object (43 -> entities.Customer[ id=null ])
+Más Detallado:   Connection released to connection pool [default].
+Muy Detallado:   TX afterCompletion callback, status=COMMITTED
+Muy Detallado:   end unit of work commit
+Muy Detallado:   release unit of work
+Muy Detallado:   client released
+Grave:   El id del nuevo cliente es entities.Customer[ id=43 ]
+Muy Detallado:   client acquired: 273312627
+Muy Detallado:   TX binding to tx mgr, status=STATUS_ACTIVE
+Muy Detallado:   acquire unit of work: 1006056122
+Muy Detallado:   begin unit of work flush
+Muy Detallado:   end unit of work flush
+Más Detallado:   Execute query ReadAllQuery(referenceClass=Customer )
+Más Detallado:   Connection acquired from connection pool [read].
+Más Detallado:   reconnecting to external connection pool
+Detallado:   SELECT ID, ADDRESS, CC_NUMBER, CITY_REGION, EMAIL, NAME, PHONE FROM CUSTOMER
+Más Detallado:   Connection released to connection pool [read].
+Muy Detallado:   TX beforeCompletion callback, status=STATUS_ACTIVE
+Muy Detallado:   begin unit of work commit
+Muy Detallado:   TX afterCompletion callback, status=COMMITTED
+Muy Detallado:   end unit of work commit
+Muy Detallado:   release unit of work
+Muy Detallado:   client released
+Muy Detallado:   client acquired: 2028709992
+Muy Detallado:   TX binding to tx mgr, status=STATUS_ACTIVE
+Muy Detallado:   acquire unit of work: 752555725
+Más Detallado:   persist() operation called on: entities.CustomerOrder[ id=null ].
+Muy Detallado:   TX beforeCompletion callback, status=STATUS_ACTIVE
+Muy Detallado:   begin unit of work commit
+Más Detallado:   Execute query DoesExistQuery(referenceClass=Customer )
+Muy Detallado:   TX beginTransaction, status=STATUS_ACTIVE
+Más Detallado:   Execute query InsertObjectQuery(entities.CustomerOrder[ id=null ])
+Más Detallado:   Connection acquired from connection pool [default].
+Más Detallado:   reconnecting to external connection pool
+Detallado:   INSERT INTO CUSTOMER_ORDER (AMOUNT, CONFIRMATION_NUMBER, DATE_CREATED, CUSTOMER_ID) VALUES (?, ?, ?, ?)
+	bind => [4 parameters bound]
+Más Detallado:   Execute query ValueReadQuery(name="SEQ_GEN_IDENTITY" sql="values IDENTITY_VAL_LOCAL()")
+Detallado:   values IDENTITY_VAL_LOCAL()
+Más Detallado:   assign sequence to the object (58 -> entities.CustomerOrder[ id=null ])
+Más Detallado:   Connection released to connection pool [default].
+Muy Detallado:   TX afterCompletion callback, status=COMMITTED
+Muy Detallado:   end unit of work commit
+Muy Detallado:   release unit of work
+Muy Detallado:   client released
+Grave:   El id del nuevo pedido del cliente es entities.CustomerOrder[ id=58 ]
+Muy Detallado:   client acquired: 2076494360
+Muy Detallado:   TX binding to tx mgr, status=STATUS_ACTIVE
+Muy Detallado:   acquire unit of work: 1844260581
+Más Detallado:   persist() operation called on: entities.CustomerOrder[ id=null ].
+Muy Detallado:   TX beforeCompletion callback, status=STATUS_ACTIVE
+Muy Detallado:   begin unit of work commit
+Más Detallado:   Execute query DoesExistQuery(referenceClass=Customer )
+Muy Detallado:   TX beginTransaction, status=STATUS_ACTIVE
+Más Detallado:   Execute query InsertObjectQuery(entities.CustomerOrder[ id=null ])
+Más Detallado:   Connection acquired from connection pool [default].
+Más Detallado:   reconnecting to external connection pool
+Detallado:   INSERT INTO CUSTOMER_ORDER (AMOUNT, CONFIRMATION_NUMBER, DATE_CREATED, CUSTOMER_ID) VALUES (?, ?, ?, ?)
+	bind => [4 parameters bound]
+Más Detallado:   Execute query ValueReadQuery(name="SEQ_GEN_IDENTITY" sql="values IDENTITY_VAL_LOCAL()")
+Detallado:   values IDENTITY_VAL_LOCAL()
+Más Detallado:   assign sequence to the object (59 -> entities.CustomerOrder[ id=null ])
+Más Detallado:   Connection released to connection pool [default].
+Muy Detallado:   TX afterCompletion callback, status=COMMITTED
+Muy Detallado:   end unit of work commit
+Muy Detallado:   release unit of work
+Muy Detallado:   client released
+Grave:   El id del nuevo pedido del cliente es entities.CustomerOrder[ id=59 ]
+Muy Detallado:   client acquired: 49890887
+Muy Detallado:   TX binding to tx mgr, status=STATUS_ACTIVE
+Muy Detallado:   acquire unit of work: 660745922
+Más Detallado:   persist() operation called on: entities.OrderedProduct[ orderedProductPK=entities.OrderedProductPK[ customerOrderId=58, productId=106 ] ].
+Muy Detallado:   TX beforeCompletion callback, status=STATUS_ACTIVE
+Muy Detallado:   begin unit of work commit
+Más Detallado:   Execute query DoesExistQuery(referenceClass=CustomerOrder )
+Más Detallado:   Execute query DoesExistQuery(referenceClass=Product )
+Muy Detallado:   TX beginTransaction, status=STATUS_ACTIVE
+Más Detallado:   Execute query InsertObjectQuery(entities.OrderedProduct[ orderedProductPK=entities.OrderedProductPK[ customerOrderId=58, productId=106 ] ])
+Más Detallado:   Connection acquired from connection pool [default].
+Más Detallado:   reconnecting to external connection pool
+Detallado:   INSERT INTO ORDERED_PRODUCT (QUANTITY, PRODUCT_ID, CUSTOMER_ORDER_ID) VALUES (?, ?, ?)
+	bind => [3 parameters bound]
+Más Detallado:   Connection released to connection pool [default].
+Muy Detallado:   TX afterCompletion callback, status=COMMITTED
+Muy Detallado:   end unit of work commit
+Muy Detallado:   release unit of work
+Muy Detallado:   client released
+Muy Detallado:   client acquired: 439167677
+Muy Detallado:   TX binding to tx mgr, status=STATUS_ACTIVE
+Muy Detallado:   acquire unit of work: 542915147
+Más Detallado:   persist() operation called on: entities.OrderedProduct[ orderedProductPK=entities.OrderedProductPK[ customerOrderId=58, productId=107 ] ].
+Muy Detallado:   TX beforeCompletion callback, status=STATUS_ACTIVE
+Muy Detallado:   begin unit of work commit
+Más Detallado:   Execute query DoesExistQuery(referenceClass=CustomerOrder )
+Más Detallado:   Execute query DoesExistQuery(referenceClass=Product )
+Muy Detallado:   TX beginTransaction, status=STATUS_ACTIVE
+Más Detallado:   Execute query InsertObjectQuery(entities.OrderedProduct[ orderedProductPK=entities.OrderedProductPK[ customerOrderId=58, productId=107 ] ])
+Más Detallado:   Connection acquired from connection pool [default].
+Más Detallado:   reconnecting to external connection pool
+Detallado:   INSERT INTO ORDERED_PRODUCT (QUANTITY, PRODUCT_ID, CUSTOMER_ORDER_ID) VALUES (?, ?, ?)
+	bind => [3 parameters bound]
+Más Detallado:   Connection released to connection pool [default].
+Muy Detallado:   TX afterCompletion callback, status=COMMITTED
+Muy Detallado:   end unit of work commit
+Muy Detallado:   release unit of work
+Muy Detallado:   client released
+Muy Detallado:   client acquired: 875740334
+Muy Detallado:   TX binding to tx mgr, status=STATUS_ACTIVE
+Muy Detallado:   acquire unit of work: 243993582
+Más Detallado:   persist() operation called on: entities.OrderedProduct[ orderedProductPK=entities.OrderedProductPK[ customerOrderId=58, productId=108 ] ].
+Muy Detallado:   TX beforeCompletion callback, status=STATUS_ACTIVE
+Muy Detallado:   begin unit of work commit
+Más Detallado:   Execute query DoesExistQuery(referenceClass=CustomerOrder )
+Más Detallado:   Execute query DoesExistQuery(referenceClass=Product )
+Muy Detallado:   TX beginTransaction, status=STATUS_ACTIVE
+Más Detallado:   Execute query InsertObjectQuery(entities.OrderedProduct[ orderedProductPK=entities.OrderedProductPK[ customerOrderId=58, productId=108 ] ])
+Más Detallado:   Connection acquired from connection pool [default].
+Más Detallado:   reconnecting to external connection pool
+Detallado:   INSERT INTO ORDERED_PRODUCT (QUANTITY, PRODUCT_ID, CUSTOMER_ORDER_ID) VALUES (?, ?, ?)
+	bind => [3 parameters bound]
+Más Detallado:   Connection released to connection pool [default].
+Muy Detallado:   TX afterCompletion callback, status=COMMITTED
+Muy Detallado:   end unit of work commit
+Muy Detallado:   release unit of work
+Muy Detallado:   client released
+Muy Detallado:   client acquired: 1644098704
+Muy Detallado:   TX binding to tx mgr, status=STATUS_ACTIVE
+Muy Detallado:   acquire unit of work: 874042375
+Más Detallado:   persist() operation called on: entities.OrderedProduct[ orderedProductPK=entities.OrderedProductPK[ customerOrderId=59, productId=106 ] ].
+Muy Detallado:   TX beforeCompletion callback, status=STATUS_ACTIVE
+Muy Detallado:   begin unit of work commit
+Más Detallado:   Execute query DoesExistQuery(referenceClass=CustomerOrder )
+Más Detallado:   Execute query DoesExistQuery(referenceClass=Product )
+Muy Detallado:   TX beginTransaction, status=STATUS_ACTIVE
+Más Detallado:   Execute query InsertObjectQuery(entities.OrderedProduct[ orderedProductPK=entities.OrderedProductPK[ customerOrderId=59, productId=106 ] ])
+Más Detallado:   Connection acquired from connection pool [default].
+Más Detallado:   reconnecting to external connection pool
+Detallado:   INSERT INTO ORDERED_PRODUCT (QUANTITY, PRODUCT_ID, CUSTOMER_ORDER_ID) VALUES (?, ?, ?)
+	bind => [3 parameters bound]
+Más Detallado:   Connection released to connection pool [default].
+Muy Detallado:   TX afterCompletion callback, status=COMMITTED
+Muy Detallado:   end unit of work commit
+Muy Detallado:   release unit of work
+Muy Detallado:   client released
+Muy Detallado:   client acquired: 767183076
+Muy Detallado:   TX binding to tx mgr, status=STATUS_ACTIVE
+Muy Detallado:   acquire unit of work: 1223426953
+Más Detallado:   persist() operation called on: entities.OrderedProduct[ orderedProductPK=entities.OrderedProductPK[ customerOrderId=59, productId=107 ] ].
+Muy Detallado:   TX beforeCompletion callback, status=STATUS_ACTIVE
+Muy Detallado:   begin unit of work commit
+Más Detallado:   Execute query DoesExistQuery(referenceClass=CustomerOrder )
+Más Detallado:   Execute query DoesExistQuery(referenceClass=Product )
+Muy Detallado:   TX beginTransaction, status=STATUS_ACTIVE
+Más Detallado:   Execute query InsertObjectQuery(entities.OrderedProduct[ orderedProductPK=entities.OrderedProductPK[ customerOrderId=59, productId=107 ] ])
+Más Detallado:   Connection acquired from connection pool [default].
+Más Detallado:   reconnecting to external connection pool
+Detallado:   INSERT INTO ORDERED_PRODUCT (QUANTITY, PRODUCT_ID, CUSTOMER_ORDER_ID) VALUES (?, ?, ?)
+	bind => [3 parameters bound]
+Más Detallado:   Connection released to connection pool [default].
+Muy Detallado:   TX afterCompletion callback, status=COMMITTED
+Muy Detallado:   end unit of work commit
+Muy Detallado:   release unit of work
+Muy Detallado:   client released
+Muy Detallado:   client acquired: 873201397
+Muy Detallado:   TX binding to tx mgr, status=STATUS_ACTIVE
+Muy Detallado:   acquire unit of work: 1492996781
+Más Detallado:   persist() operation called on: entities.OrderedProduct[ orderedProductPK=entities.OrderedProductPK[ customerOrderId=59, productId=108 ] ].
+Muy Detallado:   TX beforeCompletion callback, status=STATUS_ACTIVE
+Muy Detallado:   begin unit of work commit
+Más Detallado:   Execute query DoesExistQuery(referenceClass=CustomerOrder )
+Más Detallado:   Execute query DoesExistQuery(referenceClass=Product )
+Muy Detallado:   TX beginTransaction, status=STATUS_ACTIVE
+Más Detallado:   Execute query InsertObjectQuery(entities.OrderedProduct[ orderedProductPK=entities.OrderedProductPK[ customerOrderId=59, productId=108 ] ])
+Más Detallado:   Connection acquired from connection pool [default].
+Más Detallado:   reconnecting to external connection pool
+Detallado:   INSERT INTO ORDERED_PRODUCT (QUANTITY, PRODUCT_ID, CUSTOMER_ORDER_ID) VALUES (?, ?, ?)
+	bind => [3 parameters bound]
+Más Detallado:   Connection released to connection pool [default].
+Muy Detallado:   TX afterCompletion callback, status=COMMITTED
+Muy Detallado:   end unit of work commit
+Muy Detallado:   release unit of work
+Muy Detallado:   client released
+Muy Detallado:   client acquired: 1254923710
+Muy Detallado:   TX binding to tx mgr, status=STATUS_ACTIVE
+Muy Detallado:   acquire unit of work: 1451362619
+Muy Detallado:   begin unit of work flush
+Muy Detallado:   end unit of work flush
+Más Detallado:   Execute query ReadAllQuery(referenceClass=CustomerOrder )
+Más Detallado:   Connection acquired from connection pool [read].
+Más Detallado:   reconnecting to external connection pool
+Detallado:   SELECT ID, AMOUNT, CONFIRMATION_NUMBER, DATE_CREATED, CUSTOMER_ID FROM CUSTOMER_ORDER
+Más Detallado:   Connection released to connection pool [read].
+Más Detallado:   Register the existing object entities.Customer[ id=7 ]
+Más Detallado:   Register the existing object entities.Customer[ id=8 ]
+Más Detallado:   Register the existing object entities.Customer[ id=9 ]
+Más Detallado:   Register the existing object entities.Customer[ id=10 ]
+Más Detallado:   Register the existing object entities.Customer[ id=11 ]
+Más Detallado:   Register the existing object entities.Customer[ id=12 ]
+Más Detallado:   Register the existing object entities.Customer[ id=13 ]
+Más Detallado:   Register the existing object entities.Customer[ id=14 ]
+Más Detallado:   Register the existing object entities.Customer[ id=15 ]
+Más Detallado:   Register the existing object entities.Customer[ id=16 ]
+Más Detallado:   Register the existing object entities.Customer[ id=17 ]
+Más Detallado:   Register the existing object entities.Customer[ id=20 ]
+Más Detallado:   Register the existing object entities.Customer[ id=20 ]
+Más Detallado:   Register the existing object entities.Customer[ id=21 ]
+Más Detallado:   Register the existing object entities.Customer[ id=21 ]
+Más Detallado:   Register the existing object entities.Customer[ id=22 ]
+Más Detallado:   Register the existing object entities.Customer[ id=22 ]
+Más Detallado:   Register the existing object entities.Customer[ id=23 ]
+Más Detallado:   Register the existing object entities.Customer[ id=23 ]
+Más Detallado:   Register the existing object entities.Customer[ id=24 ]
+Más Detallado:   Register the existing object entities.Customer[ id=24 ]
+Más Detallado:   Register the existing object entities.Customer[ id=25 ]
+Más Detallado:   Register the existing object entities.Customer[ id=25 ]
+Más Detallado:   Register the existing object entities.Customer[ id=26 ]
+Más Detallado:   Register the existing object entities.Customer[ id=26 ]
+Más Detallado:   Register the existing object entities.Customer[ id=27 ]
+Más Detallado:   Register the existing object entities.Customer[ id=27 ]
+Más Detallado:   Register the existing object entities.Customer[ id=28 ]
+Más Detallado:   Register the existing object entities.Customer[ id=28 ]
+Más Detallado:   Register the existing object entities.Customer[ id=29 ]
+Más Detallado:   Register the existing object entities.Customer[ id=29 ]
+Más Detallado:   Register the existing object entities.Customer[ id=30 ]
+Más Detallado:   Register the existing object entities.Customer[ id=30 ]
+Más Detallado:   Register the existing object entities.Customer[ id=31 ]
+Más Detallado:   Register the existing object entities.Customer[ id=31 ]
+Más Detallado:   Register the existing object entities.Customer[ id=32 ]
+Más Detallado:   Register the existing object entities.Customer[ id=32 ]
+Más Detallado:   Register the existing object entities.Customer[ id=33 ]
+Más Detallado:   Register the existing object entities.Customer[ id=33 ]
+Más Detallado:   Register the existing object entities.Customer[ id=34 ]
+Más Detallado:   Register the existing object entities.Customer[ id=34 ]
+Más Detallado:   Register the existing object entities.Customer[ id=35 ]
+Más Detallado:   Register the existing object entities.Customer[ id=35 ]
+Más Detallado:   Register the existing object entities.Customer[ id=36 ]
+Más Detallado:   Register the existing object entities.Customer[ id=36 ]
+Más Detallado:   Register the existing object entities.Customer[ id=37 ]
+Más Detallado:   Register the existing object entities.Customer[ id=37 ]
+Más Detallado:   Register the existing object entities.Customer[ id=38 ]
+Más Detallado:   Register the existing object entities.Customer[ id=38 ]
+Más Detallado:   Register the existing object entities.Customer[ id=39 ]
+Más Detallado:   Register the existing object entities.Customer[ id=39 ]
+Más Detallado:   Register the existing object entities.Customer[ id=40 ]
+Más Detallado:   Register the existing object entities.Customer[ id=40 ]
+Más Detallado:   Register the existing object entities.Customer[ id=41 ]
+Más Detallado:   Register the existing object entities.Customer[ id=41 ]
+Más Detallado:   Register the existing object entities.Customer[ id=42 ]
+Más Detallado:   Register the existing object entities.Customer[ id=42 ]
+Más Detallado:   Register the existing object entities.Customer[ id=43 ]
+Más Detallado:   Register the existing object entities.Customer[ id=43 ]
+Muy Detallado:   TX beforeCompletion callback, status=STATUS_ACTIVE
+Muy Detallado:   begin unit of work commit
+Muy Detallado:   TX afterCompletion callback, status=COMMITTED
+Muy Detallado:   end unit of work commit
+Muy Detallado:   release unit of work
+Muy Detallado:   client released
+Muy Detallado:   client acquired: 965115321
+Muy Detallado:   TX binding to tx mgr, status=STATUS_ACTIVE
+Muy Detallado:   acquire unit of work: 540321775
+Muy Detallado:   begin unit of work flush
+Muy Detallado:   end unit of work flush
+Más Detallado:   Execute query ReadAllQuery(referenceClass=OrderedProduct )
+Más Detallado:   Connection acquired from connection pool [read].
+Más Detallado:   reconnecting to external connection pool
+Detallado:   SELECT QUANTITY, PRODUCT_ID, CUSTOMER_ORDER_ID FROM ORDERED_PRODUCT
+Más Detallado:   Connection released to connection pool [read].
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=1 ]
+Más Detallado:   Register the existing object entities.Customer[ id=7 ]
+Más Detallado:   Register the existing object entities.Product[ id=1 ]
+Más Detallado:   Register the existing object entities.Category[ id=1 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=1 ]
+Más Detallado:   Register the existing object entities.Product[ id=2 ]
+Más Detallado:   Register the existing object entities.Category[ id=1 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=1 ]
+Más Detallado:   Register the existing object entities.Product[ id=3 ]
+Más Detallado:   Register the existing object entities.Category[ id=1 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=1 ]
+Más Detallado:   Register the existing object entities.Product[ id=4 ]
+Más Detallado:   Register the existing object entities.Category[ id=1 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=1 ]
+Más Detallado:   Register the existing object entities.Product[ id=5 ]
+Más Detallado:   Register the existing object entities.Category[ id=2 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=1 ]
+Más Detallado:   Register the existing object entities.Product[ id=6 ]
+Más Detallado:   Register the existing object entities.Category[ id=2 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=2 ]
+Más Detallado:   Register the existing object entities.Customer[ id=8 ]
+Más Detallado:   Register the existing object entities.Product[ id=1 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=2 ]
+Más Detallado:   Register the existing object entities.Product[ id=2 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=2 ]
+Más Detallado:   Register the existing object entities.Product[ id=3 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=2 ]
+Más Detallado:   Register the existing object entities.Product[ id=4 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=2 ]
+Más Detallado:   Register the existing object entities.Product[ id=5 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=2 ]
+Más Detallado:   Register the existing object entities.Product[ id=6 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=3 ]
+Más Detallado:   Register the existing object entities.Customer[ id=9 ]
+Más Detallado:   Register the existing object entities.Product[ id=1 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=3 ]
+Más Detallado:   Register the existing object entities.Product[ id=2 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=3 ]
+Más Detallado:   Register the existing object entities.Product[ id=3 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=3 ]
+Más Detallado:   Register the existing object entities.Product[ id=4 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=3 ]
+Más Detallado:   Register the existing object entities.Product[ id=5 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=3 ]
+Más Detallado:   Register the existing object entities.Product[ id=6 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=4 ]
+Más Detallado:   Register the existing object entities.Customer[ id=10 ]
+Más Detallado:   Register the existing object entities.Product[ id=1 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=4 ]
+Más Detallado:   Register the existing object entities.Product[ id=2 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=4 ]
+Más Detallado:   Register the existing object entities.Product[ id=3 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=4 ]
+Más Detallado:   Register the existing object entities.Product[ id=4 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=4 ]
+Más Detallado:   Register the existing object entities.Product[ id=5 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=4 ]
+Más Detallado:   Register the existing object entities.Product[ id=6 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=5 ]
+Más Detallado:   Register the existing object entities.Customer[ id=11 ]
+Más Detallado:   Register the existing object entities.Product[ id=1 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=5 ]
+Más Detallado:   Register the existing object entities.Product[ id=2 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=5 ]
+Más Detallado:   Register the existing object entities.Product[ id=3 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=5 ]
+Más Detallado:   Register the existing object entities.Product[ id=4 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=5 ]
+Más Detallado:   Register the existing object entities.Product[ id=5 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=5 ]
+Más Detallado:   Register the existing object entities.Product[ id=6 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=6 ]
+Más Detallado:   Register the existing object entities.Customer[ id=12 ]
+Más Detallado:   Register the existing object entities.Product[ id=1 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=6 ]
+Más Detallado:   Register the existing object entities.Product[ id=2 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=6 ]
+Más Detallado:   Register the existing object entities.Product[ id=3 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=6 ]
+Más Detallado:   Register the existing object entities.Product[ id=4 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=6 ]
+Más Detallado:   Register the existing object entities.Product[ id=5 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=6 ]
+Más Detallado:   Register the existing object entities.Product[ id=6 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=7 ]
+Más Detallado:   Register the existing object entities.Customer[ id=13 ]
+Más Detallado:   Register the existing object entities.Product[ id=1 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=7 ]
+Más Detallado:   Register the existing object entities.Product[ id=2 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=7 ]
+Más Detallado:   Register the existing object entities.Product[ id=3 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=7 ]
+Más Detallado:   Register the existing object entities.Product[ id=4 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=7 ]
+Más Detallado:   Register the existing object entities.Product[ id=5 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=7 ]
+Más Detallado:   Register the existing object entities.Product[ id=6 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=8 ]
+Más Detallado:   Register the existing object entities.Customer[ id=14 ]
+Más Detallado:   Register the existing object entities.Product[ id=1 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=8 ]
+Más Detallado:   Register the existing object entities.Product[ id=2 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=8 ]
+Más Detallado:   Register the existing object entities.Product[ id=3 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=8 ]
+Más Detallado:   Register the existing object entities.Product[ id=4 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=8 ]
+Más Detallado:   Register the existing object entities.Product[ id=5 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=8 ]
+Más Detallado:   Register the existing object entities.Product[ id=6 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=9 ]
+Más Detallado:   Register the existing object entities.Customer[ id=15 ]
+Más Detallado:   Register the existing object entities.Product[ id=1 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=9 ]
+Más Detallado:   Register the existing object entities.Product[ id=2 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=9 ]
+Más Detallado:   Register the existing object entities.Product[ id=3 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=9 ]
+Más Detallado:   Register the existing object entities.Product[ id=4 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=9 ]
+Más Detallado:   Register the existing object entities.Product[ id=5 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=9 ]
+Más Detallado:   Register the existing object entities.Product[ id=6 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=10 ]
+Más Detallado:   Register the existing object entities.Customer[ id=16 ]
+Más Detallado:   Register the existing object entities.Product[ id=1 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=10 ]
+Más Detallado:   Register the existing object entities.Product[ id=2 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=10 ]
+Más Detallado:   Register the existing object entities.Product[ id=3 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=10 ]
+Más Detallado:   Register the existing object entities.Product[ id=4 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=10 ]
+Más Detallado:   Register the existing object entities.Product[ id=5 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=10 ]
+Más Detallado:   Register the existing object entities.Product[ id=6 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=11 ]
+Más Detallado:   Register the existing object entities.Customer[ id=17 ]
+Más Detallado:   Register the existing object entities.Product[ id=1 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=11 ]
+Más Detallado:   Register the existing object entities.Product[ id=2 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=11 ]
+Más Detallado:   Register the existing object entities.Product[ id=3 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=11 ]
+Más Detallado:   Register the existing object entities.Product[ id=4 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=11 ]
+Más Detallado:   Register the existing object entities.Product[ id=5 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=11 ]
+Más Detallado:   Register the existing object entities.Product[ id=6 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=14 ]
+Más Detallado:   Register the existing object entities.Customer[ id=21 ]
+Más Detallado:   Register the existing object entities.Product[ id=40 ]
+Más Detallado:   Register the existing object entities.Category[ id=11 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=14 ]
+Más Detallado:   Register the existing object entities.Product[ id=41 ]
+Más Detallado:   Register the existing object entities.Category[ id=11 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=14 ]
+Más Detallado:   Register the existing object entities.Product[ id=42 ]
+Más Detallado:   Register the existing object entities.Category[ id=11 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=15 ]
+Más Detallado:   Register the existing object entities.Customer[ id=21 ]
+Más Detallado:   Register the existing object entities.Product[ id=40 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=15 ]
+Más Detallado:   Register the existing object entities.Product[ id=41 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=15 ]
+Más Detallado:   Register the existing object entities.Product[ id=42 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=16 ]
+Más Detallado:   Register the existing object entities.Customer[ id=22 ]
+Más Detallado:   Register the existing object entities.Product[ id=43 ]
+Más Detallado:   Register the existing object entities.Category[ id=12 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=16 ]
+Más Detallado:   Register the existing object entities.Product[ id=44 ]
+Más Detallado:   Register the existing object entities.Category[ id=12 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=16 ]
+Más Detallado:   Register the existing object entities.Product[ id=45 ]
+Más Detallado:   Register the existing object entities.Category[ id=12 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=17 ]
+Más Detallado:   Register the existing object entities.Customer[ id=22 ]
+Más Detallado:   Register the existing object entities.Product[ id=43 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=17 ]
+Más Detallado:   Register the existing object entities.Product[ id=44 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=17 ]
+Más Detallado:   Register the existing object entities.Product[ id=45 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=18 ]
+Más Detallado:   Register the existing object entities.Customer[ id=23 ]
+Más Detallado:   Register the existing object entities.Product[ id=46 ]
+Más Detallado:   Register the existing object entities.Category[ id=13 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=18 ]
+Más Detallado:   Register the existing object entities.Product[ id=47 ]
+Más Detallado:   Register the existing object entities.Category[ id=13 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=18 ]
+Más Detallado:   Register the existing object entities.Product[ id=48 ]
+Más Detallado:   Register the existing object entities.Category[ id=13 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=19 ]
+Más Detallado:   Register the existing object entities.Customer[ id=23 ]
+Más Detallado:   Register the existing object entities.Product[ id=46 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=19 ]
+Más Detallado:   Register the existing object entities.Product[ id=47 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=19 ]
+Más Detallado:   Register the existing object entities.Product[ id=48 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=20 ]
+Más Detallado:   Register the existing object entities.Customer[ id=24 ]
+Más Detallado:   Register the existing object entities.Product[ id=49 ]
+Más Detallado:   Register the existing object entities.Category[ id=14 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=20 ]
+Más Detallado:   Register the existing object entities.Product[ id=50 ]
+Más Detallado:   Register the existing object entities.Category[ id=14 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=20 ]
+Más Detallado:   Register the existing object entities.Product[ id=51 ]
+Más Detallado:   Register the existing object entities.Category[ id=14 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=21 ]
+Más Detallado:   Register the existing object entities.Customer[ id=24 ]
+Más Detallado:   Register the existing object entities.Product[ id=49 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=21 ]
+Más Detallado:   Register the existing object entities.Product[ id=50 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=21 ]
+Más Detallado:   Register the existing object entities.Product[ id=51 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=22 ]
+Más Detallado:   Register the existing object entities.Customer[ id=25 ]
+Más Detallado:   Register the existing object entities.Product[ id=52 ]
+Más Detallado:   Register the existing object entities.Category[ id=15 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=22 ]
+Más Detallado:   Register the existing object entities.Product[ id=53 ]
+Más Detallado:   Register the existing object entities.Category[ id=15 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=22 ]
+Más Detallado:   Register the existing object entities.Product[ id=54 ]
+Más Detallado:   Register the existing object entities.Category[ id=15 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=23 ]
+Más Detallado:   Register the existing object entities.Customer[ id=25 ]
+Más Detallado:   Register the existing object entities.Product[ id=52 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=23 ]
+Más Detallado:   Register the existing object entities.Product[ id=53 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=23 ]
+Más Detallado:   Register the existing object entities.Product[ id=54 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=24 ]
+Más Detallado:   Register the existing object entities.Customer[ id=26 ]
+Más Detallado:   Register the existing object entities.Product[ id=55 ]
+Más Detallado:   Register the existing object entities.Category[ id=16 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=24 ]
+Más Detallado:   Register the existing object entities.Product[ id=56 ]
+Más Detallado:   Register the existing object entities.Category[ id=16 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=24 ]
+Más Detallado:   Register the existing object entities.Product[ id=57 ]
+Más Detallado:   Register the existing object entities.Category[ id=16 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=25 ]
+Más Detallado:   Register the existing object entities.Customer[ id=26 ]
+Más Detallado:   Register the existing object entities.Product[ id=55 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=25 ]
+Más Detallado:   Register the existing object entities.Product[ id=56 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=25 ]
+Más Detallado:   Register the existing object entities.Product[ id=57 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=26 ]
+Más Detallado:   Register the existing object entities.Customer[ id=27 ]
+Más Detallado:   Register the existing object entities.Product[ id=58 ]
+Más Detallado:   Register the existing object entities.Category[ id=17 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=26 ]
+Más Detallado:   Register the existing object entities.Product[ id=59 ]
+Más Detallado:   Register the existing object entities.Category[ id=17 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=26 ]
+Más Detallado:   Register the existing object entities.Product[ id=60 ]
+Más Detallado:   Register the existing object entities.Category[ id=17 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=27 ]
+Más Detallado:   Register the existing object entities.Customer[ id=27 ]
+Más Detallado:   Register the existing object entities.Product[ id=58 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=27 ]
+Más Detallado:   Register the existing object entities.Product[ id=59 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=27 ]
+Más Detallado:   Register the existing object entities.Product[ id=60 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=28 ]
+Más Detallado:   Register the existing object entities.Customer[ id=28 ]
+Más Detallado:   Register the existing object entities.Product[ id=61 ]
+Más Detallado:   Register the existing object entities.Category[ id=18 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=28 ]
+Más Detallado:   Register the existing object entities.Product[ id=62 ]
+Más Detallado:   Register the existing object entities.Category[ id=18 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=28 ]
+Más Detallado:   Register the existing object entities.Product[ id=63 ]
+Más Detallado:   Register the existing object entities.Category[ id=18 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=29 ]
+Más Detallado:   Register the existing object entities.Customer[ id=28 ]
+Más Detallado:   Register the existing object entities.Product[ id=61 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=29 ]
+Más Detallado:   Register the existing object entities.Product[ id=62 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=29 ]
+Más Detallado:   Register the existing object entities.Product[ id=63 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=30 ]
+Más Detallado:   Register the existing object entities.Customer[ id=29 ]
+Más Detallado:   Register the existing object entities.Product[ id=64 ]
+Más Detallado:   Register the existing object entities.Category[ id=19 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=30 ]
+Más Detallado:   Register the existing object entities.Product[ id=65 ]
+Más Detallado:   Register the existing object entities.Category[ id=19 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=30 ]
+Más Detallado:   Register the existing object entities.Product[ id=66 ]
+Más Detallado:   Register the existing object entities.Category[ id=19 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=31 ]
+Más Detallado:   Register the existing object entities.Customer[ id=29 ]
+Más Detallado:   Register the existing object entities.Product[ id=64 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=31 ]
+Más Detallado:   Register the existing object entities.Product[ id=65 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=31 ]
+Más Detallado:   Register the existing object entities.Product[ id=66 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=32 ]
+Más Detallado:   Register the existing object entities.Customer[ id=30 ]
+Más Detallado:   Register the existing object entities.Product[ id=67 ]
+Más Detallado:   Register the existing object entities.Category[ id=20 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=32 ]
+Más Detallado:   Register the existing object entities.Product[ id=68 ]
+Más Detallado:   Register the existing object entities.Category[ id=20 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=32 ]
+Más Detallado:   Register the existing object entities.Product[ id=69 ]
+Más Detallado:   Register the existing object entities.Category[ id=20 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=33 ]
+Más Detallado:   Register the existing object entities.Customer[ id=30 ]
+Más Detallado:   Register the existing object entities.Product[ id=67 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=33 ]
+Más Detallado:   Register the existing object entities.Product[ id=68 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=33 ]
+Más Detallado:   Register the existing object entities.Product[ id=69 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=34 ]
+Más Detallado:   Register the existing object entities.Customer[ id=31 ]
+Más Detallado:   Register the existing object entities.Product[ id=70 ]
+Más Detallado:   Register the existing object entities.Category[ id=21 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=34 ]
+Más Detallado:   Register the existing object entities.Product[ id=71 ]
+Más Detallado:   Register the existing object entities.Category[ id=21 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=34 ]
+Más Detallado:   Register the existing object entities.Product[ id=72 ]
+Más Detallado:   Register the existing object entities.Category[ id=21 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=35 ]
+Más Detallado:   Register the existing object entities.Customer[ id=31 ]
+Más Detallado:   Register the existing object entities.Product[ id=70 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=35 ]
+Más Detallado:   Register the existing object entities.Product[ id=71 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=35 ]
+Más Detallado:   Register the existing object entities.Product[ id=72 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=36 ]
+Más Detallado:   Register the existing object entities.Customer[ id=32 ]
+Más Detallado:   Register the existing object entities.Product[ id=73 ]
+Más Detallado:   Register the existing object entities.Category[ id=22 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=36 ]
+Más Detallado:   Register the existing object entities.Product[ id=74 ]
+Más Detallado:   Register the existing object entities.Category[ id=22 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=36 ]
+Más Detallado:   Register the existing object entities.Product[ id=75 ]
+Más Detallado:   Register the existing object entities.Category[ id=22 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=37 ]
+Más Detallado:   Register the existing object entities.Customer[ id=32 ]
+Más Detallado:   Register the existing object entities.Product[ id=73 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=37 ]
+Más Detallado:   Register the existing object entities.Product[ id=74 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=37 ]
+Más Detallado:   Register the existing object entities.Product[ id=75 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=38 ]
+Más Detallado:   Register the existing object entities.Customer[ id=33 ]
+Más Detallado:   Register the existing object entities.Product[ id=76 ]
+Más Detallado:   Register the existing object entities.Category[ id=23 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=38 ]
+Más Detallado:   Register the existing object entities.Product[ id=77 ]
+Más Detallado:   Register the existing object entities.Category[ id=23 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=38 ]
+Más Detallado:   Register the existing object entities.Product[ id=78 ]
+Más Detallado:   Register the existing object entities.Category[ id=23 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=39 ]
+Más Detallado:   Register the existing object entities.Customer[ id=33 ]
+Más Detallado:   Register the existing object entities.Product[ id=76 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=39 ]
+Más Detallado:   Register the existing object entities.Product[ id=77 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=39 ]
+Más Detallado:   Register the existing object entities.Product[ id=78 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=40 ]
+Más Detallado:   Register the existing object entities.Customer[ id=34 ]
+Más Detallado:   Register the existing object entities.Product[ id=79 ]
+Más Detallado:   Register the existing object entities.Category[ id=24 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=40 ]
+Más Detallado:   Register the existing object entities.Product[ id=80 ]
+Más Detallado:   Register the existing object entities.Category[ id=24 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=40 ]
+Más Detallado:   Register the existing object entities.Product[ id=81 ]
+Más Detallado:   Register the existing object entities.Category[ id=24 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=41 ]
+Más Detallado:   Register the existing object entities.Customer[ id=34 ]
+Más Detallado:   Register the existing object entities.Product[ id=79 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=41 ]
+Más Detallado:   Register the existing object entities.Product[ id=80 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=41 ]
+Más Detallado:   Register the existing object entities.Product[ id=81 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=42 ]
+Más Detallado:   Register the existing object entities.Customer[ id=35 ]
+Más Detallado:   Register the existing object entities.Product[ id=82 ]
+Más Detallado:   Register the existing object entities.Category[ id=25 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=42 ]
+Más Detallado:   Register the existing object entities.Product[ id=83 ]
+Más Detallado:   Register the existing object entities.Category[ id=25 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=42 ]
+Más Detallado:   Register the existing object entities.Product[ id=84 ]
+Más Detallado:   Register the existing object entities.Category[ id=25 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=43 ]
+Más Detallado:   Register the existing object entities.Customer[ id=35 ]
+Más Detallado:   Register the existing object entities.Product[ id=82 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=43 ]
+Más Detallado:   Register the existing object entities.Product[ id=83 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=43 ]
+Más Detallado:   Register the existing object entities.Product[ id=84 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=44 ]
+Más Detallado:   Register the existing object entities.Customer[ id=36 ]
+Más Detallado:   Register the existing object entities.Product[ id=85 ]
+Más Detallado:   Register the existing object entities.Category[ id=26 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=44 ]
+Más Detallado:   Register the existing object entities.Product[ id=86 ]
+Más Detallado:   Register the existing object entities.Category[ id=26 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=44 ]
+Más Detallado:   Register the existing object entities.Product[ id=87 ]
+Más Detallado:   Register the existing object entities.Category[ id=26 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=45 ]
+Más Detallado:   Register the existing object entities.Customer[ id=36 ]
+Más Detallado:   Register the existing object entities.Product[ id=85 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=45 ]
+Más Detallado:   Register the existing object entities.Product[ id=86 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=45 ]
+Más Detallado:   Register the existing object entities.Product[ id=87 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=46 ]
+Más Detallado:   Register the existing object entities.Customer[ id=37 ]
+Más Detallado:   Register the existing object entities.Product[ id=88 ]
+Más Detallado:   Register the existing object entities.Category[ id=27 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=46 ]
+Más Detallado:   Register the existing object entities.Product[ id=89 ]
+Más Detallado:   Register the existing object entities.Category[ id=27 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=46 ]
+Más Detallado:   Register the existing object entities.Product[ id=90 ]
+Más Detallado:   Register the existing object entities.Category[ id=27 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=47 ]
+Más Detallado:   Register the existing object entities.Customer[ id=37 ]
+Más Detallado:   Register the existing object entities.Product[ id=88 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=47 ]
+Más Detallado:   Register the existing object entities.Product[ id=89 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=47 ]
+Más Detallado:   Register the existing object entities.Product[ id=90 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=48 ]
+Más Detallado:   Register the existing object entities.Customer[ id=38 ]
+Más Detallado:   Register the existing object entities.Product[ id=91 ]
+Más Detallado:   Register the existing object entities.Category[ id=28 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=48 ]
+Más Detallado:   Register the existing object entities.Product[ id=92 ]
+Más Detallado:   Register the existing object entities.Category[ id=28 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=48 ]
+Más Detallado:   Register the existing object entities.Product[ id=93 ]
+Más Detallado:   Register the existing object entities.Category[ id=28 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=49 ]
+Más Detallado:   Register the existing object entities.Customer[ id=38 ]
+Más Detallado:   Register the existing object entities.Product[ id=91 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=49 ]
+Más Detallado:   Register the existing object entities.Product[ id=92 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=49 ]
+Más Detallado:   Register the existing object entities.Product[ id=93 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=50 ]
+Más Detallado:   Register the existing object entities.Customer[ id=39 ]
+Más Detallado:   Register the existing object entities.Product[ id=94 ]
+Más Detallado:   Register the existing object entities.Category[ id=29 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=50 ]
+Más Detallado:   Register the existing object entities.Product[ id=95 ]
+Más Detallado:   Register the existing object entities.Category[ id=29 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=50 ]
+Más Detallado:   Register the existing object entities.Product[ id=96 ]
+Más Detallado:   Register the existing object entities.Category[ id=29 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=51 ]
+Más Detallado:   Register the existing object entities.Customer[ id=39 ]
+Más Detallado:   Register the existing object entities.Product[ id=94 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=51 ]
+Más Detallado:   Register the existing object entities.Product[ id=95 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=51 ]
+Más Detallado:   Register the existing object entities.Product[ id=96 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=52 ]
+Más Detallado:   Register the existing object entities.Customer[ id=40 ]
+Más Detallado:   Register the existing object entities.Product[ id=97 ]
+Más Detallado:   Register the existing object entities.Category[ id=30 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=52 ]
+Más Detallado:   Register the existing object entities.Product[ id=98 ]
+Más Detallado:   Register the existing object entities.Category[ id=30 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=52 ]
+Más Detallado:   Register the existing object entities.Product[ id=99 ]
+Más Detallado:   Register the existing object entities.Category[ id=30 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=53 ]
+Más Detallado:   Register the existing object entities.Customer[ id=40 ]
+Más Detallado:   Register the existing object entities.Product[ id=97 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=53 ]
+Más Detallado:   Register the existing object entities.Product[ id=98 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=53 ]
+Más Detallado:   Register the existing object entities.Product[ id=99 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=54 ]
+Más Detallado:   Register the existing object entities.Customer[ id=41 ]
+Más Detallado:   Register the existing object entities.Product[ id=100 ]
+Más Detallado:   Register the existing object entities.Category[ id=31 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=54 ]
+Más Detallado:   Register the existing object entities.Product[ id=101 ]
+Más Detallado:   Register the existing object entities.Category[ id=31 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=54 ]
+Más Detallado:   Register the existing object entities.Product[ id=102 ]
+Más Detallado:   Register the existing object entities.Category[ id=31 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=55 ]
+Más Detallado:   Register the existing object entities.Customer[ id=41 ]
+Más Detallado:   Register the existing object entities.Product[ id=100 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=55 ]
+Más Detallado:   Register the existing object entities.Product[ id=101 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=55 ]
+Más Detallado:   Register the existing object entities.Product[ id=102 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=56 ]
+Más Detallado:   Register the existing object entities.Customer[ id=42 ]
+Más Detallado:   Register the existing object entities.Product[ id=103 ]
+Más Detallado:   Register the existing object entities.Category[ id=32 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=56 ]
+Más Detallado:   Register the existing object entities.Product[ id=104 ]
+Más Detallado:   Register the existing object entities.Category[ id=32 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=56 ]
+Más Detallado:   Register the existing object entities.Product[ id=105 ]
+Más Detallado:   Register the existing object entities.Category[ id=32 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=57 ]
+Más Detallado:   Register the existing object entities.Customer[ id=42 ]
+Más Detallado:   Register the existing object entities.Product[ id=103 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=57 ]
+Más Detallado:   Register the existing object entities.Product[ id=104 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=57 ]
+Más Detallado:   Register the existing object entities.Product[ id=105 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=58 ]
+Más Detallado:   Register the existing object entities.Customer[ id=43 ]
+Más Detallado:   Register the existing object entities.Product[ id=106 ]
+Más Detallado:   Register the existing object entities.Category[ id=33 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=58 ]
+Más Detallado:   Register the existing object entities.Product[ id=107 ]
+Más Detallado:   Register the existing object entities.Category[ id=33 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=58 ]
+Más Detallado:   Register the existing object entities.Product[ id=108 ]
+Más Detallado:   Register the existing object entities.Category[ id=33 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=59 ]
+Más Detallado:   Register the existing object entities.Customer[ id=43 ]
+Más Detallado:   Register the existing object entities.Product[ id=106 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=59 ]
+Más Detallado:   Register the existing object entities.Product[ id=107 ]
+Más Detallado:   Register the existing object entities.CustomerOrder[ id=59 ]
+Más Detallado:   Register the existing object entities.Product[ id=108 ]
+Muy Detallado:   TX beforeCompletion callback, status=STATUS_ACTIVE
+Muy Detallado:   begin unit of work commit
+Muy Detallado:   TX afterCompletion callback, status=COMMITTED
+Muy Detallado:   end unit of work commit
+Muy Detallado:   release unit of work
+Muy Detallado:   client released

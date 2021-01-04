@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/AffableBean_01/WSProd?WSDL" uri="wsdl/localhost_8080/AffableBean_01/WSProd.wsdl"/>
+    <system systemId="http://localhost:8080/AffableBean_01/WSProd?xsd=1" uri="wsdl/localhost_8080/AffableBean_01/WSProd.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/AffableBean_01/WSCustomer?WSDL" uri="wsdl/localhost_8080/AffableBean_01/WSCustomer.wsdl"/>
+    <system systemId="http://localhost:8080/AffableBean_01/WSCustomer?xsd=1" uri="wsdl/localhost_8080/AffableBean_01/WSCustomer.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/AffableBean_01/WSCat?WSDL" uri="wsdl/localhost_8080/AffableBean_01/WSCat.wsdl"/>
+    <system systemId="http://localhost:8080/AffableBean_01/WSCat?xsd=1" uri="wsdl/localhost_8080/AffableBean_01/WSCat.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/AffableBean_01/WSCustomerOrder?WSDL" uri="wsdl/localhost_8080/AffableBean_01/WSCustomerOrder.wsdl"/>
+    <system systemId="http://localhost:8080/AffableBean_01/WSCustomerOrder?xsd=1" uri="wsdl/localhost_8080/AffableBean_01/WSCustomerOrder.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/AffableBean_01/WSOrderedProduct?WSDL" uri="wsdl/localhost_8080/AffableBean_01/WSOrderedProduct.wsdl"/>
+    <system systemId="http://localhost:8080/AffableBean_01/WSOrderedProduct?xsd=1" uri="wsdl/localhost_8080/AffableBean_01/WSOrderedProduct.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/AffableBeanCorregido/WSCat?WSDL" uri="wsdl/localhost_8080/AffableBeanCorregido/WSCat.wsdl"/>
+    <system systemId="http://localhost:8080/AffableBeanCorregido/WSCat?xsd=1" uri="wsdl/localhost_8080/AffableBeanCorregido/WSCat.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/AffableBeanCorregido/WSCustomerOrder?WSDL" uri="wsdl/localhost_8080/AffableBeanCorregido/WSCustomerOrder.wsdl"/>
+    <system systemId="http://localhost:8080/AffableBeanCorregido/WSCustomerOrder?xsd=1" uri="wsdl/localhost_8080/AffableBeanCorregido/WSCustomerOrder.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/AffableBeanCorregido/WSOrderedProduct?WSDL" uri="wsdl/localhost_8080/AffableBeanCorregido/WSOrderedProduct.wsdl"/>
+    <system systemId="http://localhost:8080/AffableBeanCorregido/WSOrderedProduct?xsd=1" uri="wsdl/localhost_8080/AffableBeanCorregido/WSOrderedProduct.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/AffableBeanCorregido/WSProd?WSDL" uri="wsdl/localhost_8080/AffableBeanCorregido/WSProd.wsdl"/>
+    <system systemId="http://localhost:8080/AffableBeanCorregido/WSProd?xsd=1" uri="wsdl/localhost_8080/AffableBeanCorregido/WSProd.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/AffableBeanCorregido/WSCustomer?WSDL" uri="wsdl/localhost_8080/AffableBeanCorregido/WSCustomer.wsdl"/>
+    <system systemId="http://localhost:8080/AffableBeanCorregido/WSCustomer?xsd=1" uri="wsdl/localhost_8080/AffableBeanCorregido/WSCustomer.xsd_1.xsd"/>
+</catalog>

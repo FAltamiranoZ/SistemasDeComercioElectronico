@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><!--
+        *** GENERATED FROM jax-ws.xml - DO NOT EDIT !                             ***
+        *** TO MODIFY wsimport options USE Web Service node -> Edit WS Attributes ***
+        *** TO CHANGE TARGETS GENERATED TO jaxws-build.xml COPY THOSE             ***
+        *** TARGETS TO ../build.xml AND MODIFY THAT FILE INSTEAD                  ***
+
+        --><project xmlns:xalan="http://xml.apache.org/xslt" xmlns:j2seproject3="http://www.netbeans.org/ns/j2se-project/3" xmlns:jaxws="http://www.netbeans.org/ns/jax-ws/1">
+    <!--
+                ===================
+                JAX-WS WSIMPORT SECTION
+                ===================
+            -->
+    <target name="wsimport-init" depends="init">
+        <mkdir dir="${build.generated.sources.dir}/jax-ws"/>
+        <taskdef name="wsimport" classname="com.sun.tools.ws.ant.WsImport">
+            <classpath path="${libs.jaxws21.classpath}"/>
+        </taskdef>
+    </target>
+    <target name="wsimport-client-miWSsuma" depends="wsimport-init">
+        <mkdir dir="${build.generated.dir}/jax-wsCache/miWSsuma"/>
+        <property name="wsdl-miWSsuma" location="xml-resources/web-service-references/miWSsuma/wsdl/192.168.15.12_8080/proyT01_163314_JFAZ/miWSsuma.wsdl"/>
+        <wsimport sourcedestdir="${build.generated.dir}/jax-wsCache/miWSsuma" destdir="${build.generated.dir}/jax-wsCache/miWSsuma" wsdl="${wsdl-miWSsuma}" catalog="catalog.xml" encoding="${source.encoding}" extension="true" verbose="true" fork="false" wsdlLocation="http://192.168.15.12:8080/proyT01_163314_JFAZ/miWSsuma?WSDL" xnocompile="true" xendorsed="true">
+            <depends file="${wsdl-miWSsuma}"/>
+            <produces dir="${build.generated.dir}/jax-wsCache/miWSsuma"/>
+        </wsimport>
+        <copy todir="${build.generated.sources.dir}/jax-ws">
+            <fileset dir="${build.generated.dir}/jax-wsCache/miWSsuma">
+                <include name="**/*.java"/>
+            </fileset>
+        </copy>
+    </target>
+    <target name="wsimport-client-clean-miWSsuma" depends="-init-project">
+        <delete dir="${build.generated.dir}/jax-wsCache/miWSsuma"/>
+        <delete dir="${build.generated.sources.dir}/jax-ws/wssuma"/>
+    </target>
+    <target name="wsimport-client-miWSsuma_1" depends="wsimport-init">
+        <mkdir dir="${build.generated.dir}/jax-wsCache/miWSsuma_1"/>
+        <property name="wsdl-miWSsuma_1" location="xml-resources/web-service-references/miWSsuma_1/wsdl/192.168.15.12_8080/proyT01_163314_JFAZ/miWSsuma.wsdl"/>
+        <wsimport sourcedestdir="${build.generated.dir}/jax-wsCache/miWSsuma_1" destdir="${build.generated.dir}/jax-wsCache/miWSsuma_1" wsdl="${wsdl-miWSsuma_1}" catalog="catalog.xml" encoding="${source.encoding}" extension="true" verbose="true" fork="false" wsdlLocation="http://192.168.15.12:8080/proyT01_163314_JFAZ/miWSsuma?WSDL" xnocompile="true" xendorsed="true">
+            <depends file="${wsdl-miWSsuma_1}"/>
+            <produces dir="${build.generated.dir}/jax-wsCache/miWSsuma_1"/>
+        </wsimport>
+        <copy todir="${build.generated.sources.dir}/jax-ws">
+            <fileset dir="${build.generated.dir}/jax-wsCache/miWSsuma_1">
+                <include name="**/*.java"/>
+            </fileset>
+        </copy>
+    </target>
+    <target name="wsimport-client-clean-miWSsuma_1" depends="-init-project">
+        <delete dir="${build.generated.dir}/jax-wsCache/miWSsuma_1"/>
+        <delete dir="${build.generated.sources.dir}/jax-ws/wssuma"/>
+    </target>
+    <target name="wsimport-client-generate" depends="wsimport-client-miWSsuma, wsimport-client-miWSsuma_1"/>
+</project>

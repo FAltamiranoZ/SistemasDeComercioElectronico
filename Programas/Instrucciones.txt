@@ -1,0 +1,134 @@
+Practica1 simplemente dice como pasar un parámetro
+Proyt01 es donde esta el web service que utiliza tst y todas sus variaciones (excepto tstRMI)
+tst es la llamada del webService desde el mismo main
+tstRMI es el estresador con cliente POJO de RMI
+tstRMI_WSPojo_01 es el estresador con cliente pojo del web service.
+tstRMI_WSPojo_01_Practica1 es el estresador con cliente pojo del web service pero cambiando el args; esto sirve para que veamos como poner el paquete nosotros de manera manual en los bats. Este es el que tiene los bats 2
+tstRMI_WSPojo_01 es el estresador con cliente pojo del web service pero con el cliente POJO desacoplado; lo mismo de arriba, ahora con el cliente en otro paquete. Este es el que tiene los bats 3
+tstWSEscBailePojo es solamente para llamar funciones de la base de datos desde el main
+tstRMIWS_EscBaile es el estresador de la base de datos y es el que usa los bats 4
+Con java -jar nombreJar.jar se puede ejecutar desde la terminal
+Para poder pasar un argumento, podemos escribir en el main n = Integer.parseInt(args[0]); para recibir el primer argumento, que en este caso es un int. Por ejemplo, java -jar tst.jar 1. Le pasaría al main de tst.jar un 1 como args[0]
+
+
+Segundo parcial:
+
+
+Primero se abre el cmd; luego se va a  D:\GlassFish\glassfish-4.1.1\javadb\bin y se ejecuta el ij.
+Para que corra bien el ij, primero se crea la base de datos desde netbeans; luego, si el sql no tiene el connect ('jdbc:derby://localhost:1527/sample; user = app; password = app';), lo pones tu a mano en el ij; por último, ya corres el .sql
+Para correr archivos de SQL, solo es necesario abrir el ij y poner lo siguiente (NO USAR "", SOLO '', Y NO OLVIDAR EL ;): 
+run 'C:\Users\Polupero\Downloads\affablebean\affablebean\derby_affablebean_schema_creation_v02.sql';
+Para salir, se usa: exit;
+Dentro del ij, se puede usar: describe nombreTabla; y te regresa la tabla
+En la carpeta de Paola, usamos el invoice headers en la BD "nueva" para crear una tabla.
+
+Para que podamos accesar a la BD de access (no hay problema con las de derby) de manera directa (ya sea con web service o con java app, los tst previos no accedian de manera directa a la base de datos, ya que lo hacían a traves del web, el cual si lo hace de manera directa), tenemos que importar los jar que hay en la carpeta de EscBaileWeb en la carpeta de biblio
+En obtenScriptDatosBD abrimos las propiedades del proyecto, en el apartado de run, le pasamos múltiples argumentos
+En este proyecto todo lo que escribe del drop, insert y demás es solo para el sout, no lo hace verdaderamente; sirve para copy pastearlo y usarlo en el ij (Si hay problemas, nomas ejecutar una instrucción a la vez; es decir, primero un drop, luego el siguiente, luego otro, etc).
+¡El clsConexion de este proyecto y del de EscBaileWeb no son el mismo!
+Usamos este proyecto para generar la bd de "ejemplo" con el ij, que es la misma que la del access, solo que ahora en Derby.
+
+EscBaileWebDerby es una copia de EscBaileWeb, le vamos a agregar la clase tstConectionDerby (porque Gamboa no sabe escribir connection), en libraries agregamos una library llamada Java DB Driver, luego hacemos la conexión con la BD de ejemplo (Recordar que para crear una BD nos vamos a services, y en Java DB le damos a create database)
+Luego en la ClsConexion cambiamos el constructor para quitarle el .accdb y en el main cambiamos el strLocBD; en ClsGestorEscBaile cambiamos el constructor también; después en opc_10_listaAlumnos, en la parte del if(gestor.conectado), vamos a agregar un colLlave y su funcionalidad (falta acabar la funcionalidad de esto, lo dejó de tarea).
+
+EJBRemoteInterface es un java class library, no un java project común.
+Y el entAppEJB es un enterprise application (Esta en la carpeta de JavaEE) que creamos y le quitamos la palomita al create web application module.
+En el bean, damos clic derecho y agregamos un nuevo session bean, al crearlo, tenemos que palomear que la interfaz sea remota y se escoge la del java class library.
+En insert code, en el session bean, agregamos un nuevo business method.
+En las properties del triángulo, en run, le quitamos la palomita del navegador, luego hacemos clean and build y, por último, run.
+El EntAppClient es un enterprise application client, igual está en JavaEE; en library agregamos un proyecto y escogemos el EJBRemoteInterface; en el main le das clic a insert code, call enterprise bean y escogemos la del EntAppEJB.
+Después de agregar el bean, solo se llama a sus métodos usando: nombreBean.nombreMétodo(parámetro);
+SI EN ALGUN MOMENTO HAY PROBLEMAS, ES IMPORTANTE DETENER EL GLASSFISH, HACERLE CLEAN AND BUILD A TODO Y DEPLOYEAR EL TRIANGULITO.
+Si se agrega un nuevo método en el Bean, automaticamente se hace en el RemoteInterface y se actualiza de igual manera automaticamente en el Cliente.
+En resumen, primero se hace la interfaz, luego el entApp (el servidor), el cual crea el triángulo y el bean (Y al agregar un newSessionBean se hace la liga con la interfaz) y luego el cliente, el cual se liga con la interfaz al agregar el proyecto como biblioteca.
+Es importante entender que siempre que se quiera agregar una funcionalidad, se hace en el bean; si se quiere agregar una función que utiliza lo que ya existe de funcionalidades definidas, no se hace en el bean, si no en lo que le sigue (El cliente en este caso, o en otros casos, en el webService o el JSFManagedBean)
+
+El SimpleEE6App se hizo siguiendo las instrucciones de https://www.javaguicodexample.com/netbean89javaeejsfweb2.html; es decir, se creó una web application, luego se escogió Java EE 6 Web como versión de Java EE y luego se seleccionó JavaServer faces como el framework.
+Luego creamos una entity classes from database (que se llamará Message, se pone el nombre solo), que se encuentra en la carpeta de persistence, y en esta tomamos como data source el sample y agregamos la variable message; al crearla insertamos el getter y setter.
+Luego agregamos un Session beans for entity classes, que se encuentra en la carpeta de enterprise java beans, y le damos add al message que creamos y lo guardamos en otro paquete (boundary en este caso). Eso genera el AbstractFacade y MessageFacade, los cuales generan dentro de sí múltiples métodos (no tienen que ver con la entity seleccionada, son predefinidos)
+Luego agregamos un jsfManagedBean, que se encuentra en la carpeta de JavaServerFaces, en el que creamos un nuevo paquete llamado my.presentation y en el scope ponemos request. Luego insertamos un enterprise bean y seleccionamos el MessageFacade del simpleEE6app; posteriormente, copy pasteamos los metodos getMessage, getNumberOfMessages y postMessage de https://www.javaguicodexample.com/netbean89javaeejsfweb5.html y creamos la variable message la cual le damos import para que funque. Es importante darse cuenta como el método postMessage regresa "theend", este es el nombre de una JSFPage que generaremos a continuación; es decir, puedes regresar nombre de JSFPage y este navegará automaticamente para allá, esto se puede hacer gracias a serverfaces
+Luego agregamos una JSFPage, que se encuentra en la carpeta de Web, y le ponemos el título de theend; finalmente copy pasteamos al index y a theend lo que dice en https://www.javaguicodexample.com/netbean89javaeejsfweb6.html. Es importante ver como para llamar cosas desde MessageView usamos #{MessageView.nombreMétodo} para llamar un método o #{MessageView.nombreVariable.nombreVariable} para declarar una variable; esto se puede hacer debido a serverfaces
+Al ejecutarlo podemos ver los mensajes que mandamos en la database de sample.
+Luego agregamos un web service y pedimos que lo cree a partir de un existing SB y escogemos el messageFacade; esto nos va a trear los métodos del abstractFacade, ya que el message tiene su extends. En el web service, cambiamos a int id en la operacion de find y ponemos new long en el return (porque vamos a pasarle una llave al find, y no un objeto) y finalmente le agregamos una operación llamada creaMensaje de tipo boolean en el webService del SimpleEE6App. Si agrego un nuevo método en el bean, este no se actualiza automaticamente en el webService, debo ponerlo a mano
+Luego creamos una nueva java application llamada TstEJBMessagePojo, le agregamos el web service client del SimpleEE6Ap, le insertamos el código que queramos, y finalmente lo corremos.
+En resumen, primero importas el entity de la BD; luego creas el sessionBean, pero para una entidad, lo que resulta en los Facade. A partir de aquí tienes dos opciones, en la primera: luego agregas el ManagedBean que importa el bean y creas métodos que usan los del facade, para luego en los JSFPage usar los métodos definidos por el ManagedBean; en la segunda: creas un webService a partir del Bean y luego usas el WebService a traves de una java application.
+
+Creamos una base de datos llamada AffableBeans usando el ij y un .sql que nos pasó el profe, el cual se encuentra en la carpeta de EE.
+Creamos el proyecto web AffableBean_01 (ahora llamado AffableBeanCorregido) y en el presistence.xml (en a parte de Configuration Files) cambiamos el properties y le ponemos: 
+<properties>
+      <property name="eclipselink.logging.level" value="FINEST"/>
+</properties>
+Después agregamos un Entity Classes from database (no confundir con EntityClass), que se encuentra en la carpeta de persistence, luego en data source ponemos new, le damos cualquier nombre y escogemos la base de datos de affableBean (esto no lo tuvimos que hacer antes porque el sample siempre existe como conexión de default) y cambiamos el collection type a list.
+Luego agregamos un session beans for entity classes y agregamos todas las tablas.
+Luego agregamos un webService y escogemos crearlo de un session bean existente, escogemos el categoryFacade; luego repetimos el proceso con otro webService y el productFacade, en wsProd agregamos una webOperation llamada catálogo
+Después creamos el proyecto TstWSProdPojo y le agregamos el web service client de WSProd
+Luego, en categoryFacade, agregamos el findByName copy pasteado del paso 3 de instrucciones del EE y lo agregamos el método findByName en el WSCat; después, repetimos, pero con el productFacade y wsprod
+Después, en productFacade, agregamos un named query llamado findLikeName y agregamos el método en el WSProd; posteriormente en el productFacade agregamos precioPromPorCatId, de un copy paste de un archivo del EE llamado InstruccionesParaHabilitarGROUPBYenEJBsDeEntidad_v01, y se agrega el método en el WSProd
+Luego agregamos un webService para customer y en create lo modificamos para que me regrese el id del entity que le mandamos (el logger está para farolear y que aparezca en el output del glassfishServer, se puede quitar sin problema, lo importante es que regrese el id).
+Finalmente, en el TstWSProdPojo, agregamos código para probar todo.
+
+Para tstJson_00, descargamos Json de (https://github.com/stleary/JSON-java) y apache commons de (https://commons.apache.org/proper/commons-logging/download_logging.cgi).
+Luego hacemos library add Jar/folder y agregamos D:\Descargas\JSON-java-master, luego buscamos el paquete org.json y lo copiamos al source, lo agregamos y le cambiamos el nombre a src.main.java.org.json. Luego agregamos el JAR del commons logging.
+En el main vemos como agregar cosas a un json, ya sean ints, arrays o strings y como imprimirlos.
+En ClsPersona creamos un objeto persona y lo imprimimos de diferentes maneras.
+
+En el proyecto de WsJson copiamos los source package del tstJson, luego creamos un webService wsJsonPersona y le añadimos una operación obtenPersona. 
+Luego creamos el tstWsJsonPojo para agarrar el webService del WsJson y le copiamos los source package del tstJson.
+
+
+Final
+
+
+PruebaJson es una copia de TstWSJsonPojo, pero le agregamos ClsItem, items y pedido de la carpeta de clase 26 en teams
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

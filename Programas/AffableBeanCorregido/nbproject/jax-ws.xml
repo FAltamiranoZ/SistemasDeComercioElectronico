@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jax-ws xmlns="http://www.netbeans.org/ns/jax-ws/1">
+  <services>
+    <service name="WSCat">
+      <implementation-class>wsCat.WSCat</implementation-class>
+    </service>
+    <service name="WSCustomerOrder">
+      <implementation-class>wsCustOrd.WSCustomerOrder</implementation-class>
+    </service>
+    <service name="WSOrderedProduct">
+      <implementation-class>wsOrdProd.WSOrderedProduct</implementation-class>
+    </service>
+    <service name="WSProd">
+      <implementation-class>wsProd.WSProd</implementation-class>
+    </service>
+    <service name="WSCustomer">
+      <implementation-class>wsCust.WSCustomer</implementation-class>
+    </service>
+  </services>
+  <clients/>
+</jax-ws>

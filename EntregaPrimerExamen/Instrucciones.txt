@@ -1,0 +1,3 @@
+El tstRMI_WSEscBaile.jar es el que contiene los pasos 1 a 2.3, y es el que se corre usando el 4_estresa4.bat
+El tstRMI_WSEscBaile2.jar es el que contiene los pasos 2.4 a 3, y es el que se corre usando el 4_estresa5.bat
+Cualquier duda quedo atento.

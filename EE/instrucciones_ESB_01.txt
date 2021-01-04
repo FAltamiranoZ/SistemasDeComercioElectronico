@@ -1,0 +1,22 @@
+Descarga del openESB:
+
+https://www.open-esb.net/
+
+o
+
+https://1drv.ms/u/s!Alc2Qpga6xVhgq1PCiAT4IDmDVhLpw?e=ohYwtR
+
+Contraseña: sce202003
+
+Tutorial de BPEL en adistos al trabajo:
+Por Iván García Puebla
+
+Parte 1):
+https://www.adictosaltrabajo.com/2009/12/29/introduccion-bpel-openesb/
+
+Parte 2):
+https://www.adictosaltrabajo.com/2009/12/29/introduccion-bpel-openesb-2/
+
+
+
+

@@ -1,0 +1,43 @@
+1) Colocar los .bat contenidos en el directorio batsdeInicio en la "carpeta de atterrizaje" al invocar la terminal (comando cmd) desde el ejecutos de windows.
+2) Modificar de manera temporal símbolo de búsqueda PATH del SO windows para que el resto de las instrucciones operen con la versión de java deseada (debe ser versión 8).
+   Para ello modifique el archivo cjk.bat en la definición del PATH (observe que no debe dejar espacioa alrededor del símbolo "=".
+   
+   rem contenido del cjk.bat
+   rem esta es la instruccion a modificar para dirigir la busqueda a la version deseada de java
+   rem simbolo PATH o path (en windows es indiferente)
+   rem  (dirija el jdk, ya que posteriormente requiera compilar algo en java)
+   rem
+   set path=D:\Program Files\Java\jdk1.8.0_111\bin;%path%
+   rem
+   rem modifique y/o defina el símbolo classpath   
+   rem (observe que la direccion es similar a la anterior pero sin el /bin), respete el "." inicial
+   rem
+   set classpath=.;D:\Program Files\Java\jdk1.8.0_111;%classpath%
+   rem
+   rem este instrucciones para cambiar a la carpeta de trabajo (modifiquela a sus necesidades)
+   rem
+   cd D:\user\Materias\SCE\SimpleRMIAutonomo
+   rem
+   rem cambio el dispositivo (al disco d:)
+   d:
+   rem
+   rem fin del archivo cjk.bat
+   rem
+
+3) Ejecute en el directori de aterrizaje el "comando " gen (gen.bat)
+4) Arregle las ventanas de trabajo (son 4) con ayuda de la tecla windos y las teclas de las flechas.
+5) En la ventana 1 ejecute 0_unaSolaVez.bat para iniciar el servicio rmiregistry (el pizzarron de rmi)
+6) En la ventana 1 ejecute 1_ejes.bat para dar inicio al servicio a ser estresado.
+7) En la ventana 2 ejecute 2_ejesd.bat para dar inicio al servidor de dispero.
+8) En la ventana 3 disponga (sin ejecutar) 3_ejem.bat para que al dar enter se inicie el master de tiempo de stress
+9) En la ventana 4 disponga (sin ejecutar) 4_estresa.bat para que al dar enter se inicie el estresador que "siembra" los clientes del servicio a ser estresado.
+10) De enter en la ventana 3
+11) De enter en la ventana 4
+12) Observe lo que ocurre hasta que las ventanas 1 y 4 queden sin actividad
+13) De enter en la ventana 3
+14) En la ventana 3 ejecute 5_ejer.bat para obtener las estadísticas del estresamiento.
+
+FIN DE LAS INSTRUCCIONES
+
+  
+ 

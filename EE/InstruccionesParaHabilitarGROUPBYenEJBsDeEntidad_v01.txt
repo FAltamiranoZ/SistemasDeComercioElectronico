@@ -1,0 +1,125 @@
+Para habilitar la funcionalidad de GROUP BY , HAVING, etc en beans de entidad se requiere elaborar el Query que ejecutará
+la acción solicitada por medio de un Query.
+
+Los detalles de la funcionalidad en la base de datos se encuentran en
+
+http://www.java2s.com/Tutorial/Java/0355__JPA/EJBQLGroupByAndAggregateFunction.htm
+
+y, sobre todo el manejo de los queries:
+
+https://www.objectdb.com/java/jpa
+
+A continuación se expone un pequeño tutorial para obtener la cantidad de producto y precios promedio para los datos de la tabla de productos de la base del caso "affablebean" del tutorial de EE de Netbeans.
+
+Consideraciones:
+
+1)Dado que el query que se ejecuta no obtiene un bean de entidad, sino agrupados de estos, la salida que se obtiene está en forma de Object en java. A su vez este object es un Array de Objects.
+
+2) Queda a responsabilidad del programador de la interfaz y funcionalidad la manera en que se transforman estos datos para brindar la salida de la "Fachada".
+
+Para el ejemplo a desarrollar, lo primero es agregar el siguiente método en la Fachada de Producto (ProductFacade.java), como uno de los métodos de la fachada, pero se habilitará en proceso en este nivel, abusando un poco de la implementación de la fachada abstracta.
+
+Paso 1) Insertar el método siguiente en ProductFacade.java:
+
+    public String precioPromPorCatId() 
+    {
+        String strRes = "\n";
+        em = getEntityManager();
+        
+        Query query = em.createQuery("SELECT p.categoryId, AVG(p.price) FROM Product p GROUP BY p.categoryId");
+        System.err.println(query.getResultList());
+        java.util.List<Object> lista = query.getResultList();
+       
+        for(Object obj:lista)
+        {
+          Object[] x = (Object[])obj;
+          
+          strRes += x[0].toString() + " ... Precio Promedio:" + x[1].toString() + '\n';
+        }
+        
+        return strRes;
+    }
+   
+Nótese que por facilidad se obtendrá un String. Esto con el objetivo de concentrar los esfuerzos en la funcionalidad de la extracción de los datos y no en la presentación facilitando las pruebas por medio del WebService.
+
+Paso 2) Habilitar el WebMethod en el web service asociado a la funcionalidad del Bean de Producto:
+
+En mi caso en wsProd.java, insertar el siguiente método que regresa el String mencionado en el paso 1.
+
+    @WebMethod(operationName = "precioPromPorCatId")
+    public String precioPromPorCatId() {
+        return ejbRef.precioPromPorCatId();
+    }
+
+Paso 3) Dar Clean & Build al proyecto y posteriormente Deploy.
+
+Paso 4) Probar el Web Service, se muestra la salida:
+---------------------------------------------------------------------------
+ SOAP Response
+<?xml version="1.0" encoding="UTF-8"?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+    <SOAP-ENV:Header/>
+    <S:Body>
+        <ns2:precioPromPorCatIdResponse xmlns:ns2="http://wsabv02/">
+            <return>
+entidades.Category[ id=1 ] ... Precio Promedio:1.735
+entidades.Category[ id=2 ] ... Precio Promedio:2.98
+entidades.Category[ id=3 ] ... Precio Promedio:1.655
+entidades.Category[ id=4 ] ... Precio Promedio:1.715
+</return>
+        </ns2:precioPromPorCatIdResponse>
+    </S:Body>
+</S:Envelope>
+---------------------------------------------------------------------------
+Como se aprecia, el primer objeto del arreglo trae la referencia a la categoría.
+
+Paso 5) Para Mostrar la categoría, lo que haremos es agregar una variable de la clase categoría al método de extracción de ProductFacada.java.
+En mi caso, el paquete de los entity beans se llama entidades, así que la clase es entidades.Category.
+
+    public String precioPromPorCatId() 
+    {
+        String strRes = "\n";
+        em = getEntityManager();
+        
+        Query query = em.createQuery("SELECT p.categoryId, AVG(p.price) FROM Product p GROUP BY p.categoryId");
+        System.err.println(query.getResultList());
+        java.util.List<Object> lista = query.getResultList();
+       
+	    entidades.Category cat;
+	   
+        for(Object obj:lista)
+        {
+          Object[] x = (Object[])obj;
+          
+         cat = (entidades.Category)x[0];
+ 
+         strRes += cat.getId() + " " + cat.getName() + 
+                  " ... Precio Promedio:"+ x[1].toString() + '\n';
+        }
+        
+        return strRes;
+    }
+
+Paso 6) Reconstruya, despliegue y pruebe el web service.
+
+En mi caso, la salida es:
+--------------------------------------------------------------------------
+SOAP Response
+<?xml version="1.0" encoding="UTF-8"?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+    <SOAP-ENV:Header/>
+    <S:Body>
+        <ns2:precioPromPorCatIdResponse xmlns:ns2="http://wsabv02/">
+            <return>
+1 dairy ... Precio Promedio:1.735
+2 meats ... Precio Promedio:2.98
+3 bakery ... Precio Promedio:1.655
+4 fruit & veg ... Precio Promedio:1.715
+</return>
+        </ns2:precioPromPorCatIdResponse>
+    </S:Body>
+</S:Envelope>
+
+--------------------------------------------------------------------------
+
+Ejercicio: Agregue la cantidad de productos entre la categoría y el precio promedio
+
+========================== FIN DEL TUTORIAL ===============================

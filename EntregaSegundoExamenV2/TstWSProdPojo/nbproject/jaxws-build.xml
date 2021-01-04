@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><!--
+        *** GENERATED FROM jax-ws.xml - DO NOT EDIT !                             ***
+        *** TO MODIFY wsimport options USE Web Service node -> Edit WS Attributes ***
+        *** TO CHANGE TARGETS GENERATED TO jaxws-build.xml COPY THOSE             ***
+        *** TARGETS TO ../build.xml AND MODIFY THAT FILE INSTEAD                  ***
+
+        --><project xmlns:xalan="http://xml.apache.org/xslt" xmlns:j2seproject3="http://www.netbeans.org/ns/j2se-project/3" xmlns:jaxws="http://www.netbeans.org/ns/jax-ws/1">
+    <!--
+                ===================
+                JAX-WS WSIMPORT SECTION
+                ===================
+            -->
+    <target name="wsimport-init" depends="init">
+        <mkdir dir="${build.generated.sources.dir}/jax-ws"/>
+        <taskdef name="wsimport" classname="com.sun.tools.ws.ant.WsImport">
+            <classpath path="${libs.jaxws21.classpath}"/>
+        </taskdef>
+    </target>
+    <target name="wsimport-client-WSCat" depends="wsimport-init">
+        <mkdir dir="${build.generated.dir}/jax-wsCache/WSCat"/>
+        <property name="wsdl-WSCat" location="xml-resources/web-service-references/WSCat/wsdl/localhost_8080/AffableBeanCorregido/WSCat.wsdl"/>
+        <wsimport sourcedestdir="${build.generated.dir}/jax-wsCache/WSCat" destdir="${build.generated.dir}/jax-wsCache/WSCat" wsdl="${wsdl-WSCat}" catalog="catalog.xml" encoding="${source.encoding}" extension="true" verbose="true" fork="false" wsdlLocation="http://localhost:8080/AffableBeanCorregido/WSCat?WSDL" xnocompile="true" xendorsed="true">
+            <depends file="${wsdl-WSCat}"/>
+            <produces dir="${build.generated.dir}/jax-wsCache/WSCat"/>
+        </wsimport>
+        <copy todir="${build.generated.sources.dir}/jax-ws">
+            <fileset dir="${build.generated.dir}/jax-wsCache/WSCat">
+                <include name="**/*.java"/>
+            </fileset>
+        </copy>
+    </target>
+    <target name="wsimport-client-clean-WSCat" depends="-init-project">
+        <delete dir="${build.generated.dir}/jax-wsCache/WSCat"/>
+        <delete dir="${build.generated.sources.dir}/jax-ws/wscat"/>
+    </target>
+    <target name="wsimport-client-WSCustomerOrder" depends="wsimport-init">
+        <mkdir dir="${build.generated.dir}/jax-wsCache/WSCustomerOrder"/>
+        <property name="wsdl-WSCustomerOrder" location="xml-resources/web-service-references/WSCustomerOrder/wsdl/localhost_8080/AffableBeanCorregido/WSCustomerOrder.wsdl"/>
+        <wsimport sourcedestdir="${build.generated.dir}/jax-wsCache/WSCustomerOrder" destdir="${build.generated.dir}/jax-wsCache/WSCustomerOrder" wsdl="${wsdl-WSCustomerOrder}" catalog="catalog.xml" encoding="${source.encoding}" extension="true" verbose="true" fork="false" wsdlLocation="http://localhost:8080/AffableBeanCorregido/WSCustomerOrder?WSDL" xnocompile="true" xendorsed="true">
+            <depends file="${wsdl-WSCustomerOrder}"/>
+            <produces dir="${build.generated.dir}/jax-wsCache/WSCustomerOrder"/>
+        </wsimport>
+        <copy todir="${build.generated.sources.dir}/jax-ws">
+            <fileset dir="${build.generated.dir}/jax-wsCache/WSCustomerOrder">
+                <include name="**/*.java"/>
+            </fileset>
+        </copy>
+    </target>
+    <target name="wsimport-client-clean-WSCustomerOrder" depends="-init-project">
+        <delete dir="${build.generated.dir}/jax-wsCache/WSCustomerOrder"/>
+        <delete dir="${build.generated.sources.dir}/jax-ws/wscustord"/>
+    </target>
+    <target name="wsimport-client-WSOrderedProduct" depends="wsimport-init">
+        <mkdir dir="${build.generated.dir}/jax-wsCache/WSOrderedProduct"/>
+        <property name="wsdl-WSOrderedProduct" location="xml-resources/web-service-references/WSOrderedProduct/wsdl/localhost_8080/AffableBeanCorregido/WSOrderedProduct.wsdl"/>
+        <wsimport sourcedestdir="${build.generated.dir}/jax-wsCache/WSOrderedProduct" destdir="${build.generated.dir}/jax-wsCache/WSOrderedProduct" wsdl="${wsdl-WSOrderedProduct}" catalog="catalog.xml" encoding="${source.encoding}" extension="true" verbose="true" fork="false" wsdlLocation="http://localhost:8080/AffableBeanCorregido/WSOrderedProduct?WSDL" xnocompile="true" xendorsed="true">
+            <depends file="${wsdl-WSOrderedProduct}"/>
+            <produces dir="${build.generated.dir}/jax-wsCache/WSOrderedProduct"/>
+        </wsimport>
+        <copy todir="${build.generated.sources.dir}/jax-ws">
+            <fileset dir="${build.generated.dir}/jax-wsCache/WSOrderedProduct">
+                <include name="**/*.java"/>
+            </fileset>
+        </copy>
+    </target>
+    <target name="wsimport-client-clean-WSOrderedProduct" depends="-init-project">
+        <delete dir="${build.generated.dir}/jax-wsCache/WSOrderedProduct"/>
+        <delete dir="${build.generated.sources.dir}/jax-ws/wsordprod"/>
+    </target>
+    <target name="wsimport-client-WSProd" depends="wsimport-init">
+        <mkdir dir="${build.generated.dir}/jax-wsCache/WSProd"/>
+        <property name="wsdl-WSProd" location="xml-resources/web-service-references/WSProd/wsdl/localhost_8080/AffableBeanCorregido/WSProd.wsdl"/>
+        <wsimport sourcedestdir="${build.generated.dir}/jax-wsCache/WSProd" destdir="${build.generated.dir}/jax-wsCache/WSProd" wsdl="${wsdl-WSProd}" catalog="catalog.xml" encoding="${source.encoding}" extension="true" verbose="true" fork="false" wsdlLocation="http://localhost:8080/AffableBeanCorregido/WSProd?WSDL" xnocompile="true" xendorsed="true">
+            <depends file="${wsdl-WSProd}"/>
+            <produces dir="${build.generated.dir}/jax-wsCache/WSProd"/>
+        </wsimport>
+        <copy todir="${build.generated.sources.dir}/jax-ws">
+            <fileset dir="${build.generated.dir}/jax-wsCache/WSProd">
+                <include name="**/*.java"/>
+            </fileset>
+        </copy>
+    </target>
+    <target name="wsimport-client-clean-WSProd" depends="-init-project">
+        <delete dir="${build.generated.dir}/jax-wsCache/WSProd"/>
+        <delete dir="${build.generated.sources.dir}/jax-ws/wsprod"/>
+    </target>
+    <target name="wsimport-client-WSCustomer" depends="wsimport-init">
+        <mkdir dir="${build.generated.dir}/jax-wsCache/WSCustomer"/>
+        <property name="wsdl-WSCustomer" location="xml-resources/web-service-references/WSCustomer/wsdl/localhost_8080/AffableBeanCorregido/WSCustomer.wsdl"/>
+        <wsimport sourcedestdir="${build.generated.dir}/jax-wsCache/WSCustomer" destdir="${build.generated.dir}/jax-wsCache/WSCustomer" wsdl="${wsdl-WSCustomer}" catalog="catalog.xml" encoding="${source.encoding}" extension="true" verbose="true" fork="false" wsdlLocation="http://localhost:8080/AffableBeanCorregido/WSCustomer?WSDL" xnocompile="true" xendorsed="true">
+            <depends file="${wsdl-WSCustomer}"/>
+            <produces dir="${build.generated.dir}/jax-wsCache/WSCustomer"/>
+        </wsimport>
+        <copy todir="${build.generated.sources.dir}/jax-ws">
+            <fileset dir="${build.generated.dir}/jax-wsCache/WSCustomer">
+                <include name="**/*.java"/>
+            </fileset>
+        </copy>
+    </target>
+    <target name="wsimport-client-clean-WSCustomer" depends="-init-project">
+        <delete dir="${build.generated.dir}/jax-wsCache/WSCustomer"/>
+        <delete dir="${build.generated.sources.dir}/jax-ws/wscust"/>
+    </target>
+    <target name="wsimport-client-generate" depends="wsimport-client-WSCat, wsimport-client-WSCustomerOrder, wsimport-client-WSOrderedProduct, wsimport-client-WSProd, wsimport-client-WSCustomer"/>
+</project>

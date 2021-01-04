@@ -1,0 +1,1463 @@
+SCE: Segundo examen parcial de 163314 Jose Francisco Altamirano Zevallos
+----------------------------------------------------
+          2020-11-14T14:16:32.670-06:00
+----------------------------------------------------
+Se ha dado de alta la categoría 62 ... Limpieza 163314
+Lista de Categorías:
+Categoría:1->dairy
+Categoría:2->meats
+Categoría:3->bakery
+Categoría:4->fruit & veg
+Categoría:5->Limpieza 163314
+Categoría:6->Limpieza 163314
+Categoría:7->Limpieza 163314
+Categoría:8->Limpieza 163314
+Categoría:9->Limpieza 163314
+Categoría:10->Limpieza 163314
+Categoría:11->Limpieza 163314
+Categoría:12->Limpieza 163314
+Categoría:13->Limpieza 163314
+Categoría:14->Limpieza 163314
+Categoría:15->Limpieza 163314
+Categoría:16->Limpieza 163314
+Categoría:17->Limpieza 163314
+Categoría:18->Limpieza 163314
+Categoría:19->Limpieza 163314
+Categoría:20->Limpieza 163314
+Categoría:21->Limpieza 163314
+Categoría:22->Limpieza 163314
+Categoría:23->Limpieza 163314
+Categoría:24->Limpieza 163314
+Categoría:25->Limpieza 163314
+Categoría:26->Limpieza 163314
+Categoría:27->Limpieza 163314
+Categoría:28->Limpieza 163314
+Categoría:29->Limpieza 163314
+Categoría:30->Limpieza 163314
+Categoría:31->Limpieza 163314
+Categoría:32->Limpieza 163314
+Categoría:33->Limpieza 163314
+Categoría:34->Limpieza 163314
+Categoría:35->Limpieza 163314
+Categoría:36->Limpieza 163314
+Categoría:37->Limpieza 163314
+Categoría:38->Limpieza 163314
+Categoría:39->Limpieza 163314
+Categoría:40->Limpieza 163314
+Categoría:41->Limpieza 163314
+Categoría:42->Limpieza 163314
+Categoría:43->Limpieza 163314
+Categoría:44->Limpieza 163314
+Categoría:45->Limpieza 163314
+Categoría:46->Limpieza 163314
+Categoría:47->Limpieza 163314
+Categoría:48->Limpieza 163314
+Categoría:49->Limpieza 163314
+Categoría:50->Limpieza 163314
+Categoría:51->Limpieza 163314
+Categoría:52->Limpieza 163314
+Categoría:53->Limpieza 163314
+Categoría:54->Limpieza 163314
+Categoría:55->Limpieza 163314
+Categoría:56->Limpieza 163314
+Categoría:57->Limpieza 163314
+Categoría:58->Limpieza 163314
+Categoría:59->Limpieza 163314
+Categoría:60->Limpieza 163314
+Categoría:61->Limpieza 163314
+Categoría:62->Limpieza 163314
+Lista de Productos:
+Producto:1 milk semi skimmed (1L) cat:1 dairy
+Producto:2 cheese mild cheddar (330g) cat:1 dairy
+Producto:3 butter unsalted (250g) cat:1 dairy
+Producto:4 free range eggs medium-sized (6 eggs) cat:1 dairy
+Producto:5 organic meat patties rolled in fresh herbs patties (250g) cat:2 meats
+Producto:6 parma ham matured, organic (70g) cat:2 meats
+Producto:7 chicken leg free range (250g) cat:2 meats
+Producto:8 sausages reduced fat, pork 3 sausages (350g) cat:2 meats
+Producto:9 sunflower seed loaf 600g cat:3 bakery
+Producto:10 sesame seed bagel 4 bagels cat:3 bakery
+Producto:11 pumpkin seed bun 4 buns cat:3 bakery
+Producto:12 chocolate cookies contain peanuts (3 cookies) cat:3 bakery
+Producto:13 corn on the cob 2 pieces cat:4 fruit & veg
+Producto:14 red currants 150g cat:4 fruit & veg
+Producto:15 broccoli 500g cat:4 fruit & veg
+Producto:16 seedless watermelon 250g cat:4 fruit & veg
+Producto:17 Nombre Descripcion cat:1 dairy
+Producto:18 Nombre Descripcion cat:1 dairy
+Producto:19 Nombre Descripcion cat:1 dairy
+Producto:20 Nombre Descripcion cat:1 dairy
+Producto:21 Nombre Descripcion cat:1 dairy
+Producto:22 Nombre Descripcion cat:1 dairy
+Producto:23 Nombre Descripcion cat:1 dairy
+Producto:24 Nombre Descripcion cat:1 dairy
+Producto:25 Nombre Descripcion cat:1 dairy
+Producto:26 Nombre Descripcion cat:1 dairy
+Producto:27 Nombre Descripcion cat:1 dairy
+Producto:28 Prod_Jose Francisco descripcion Jose Francisco cat:7 Limpieza 163314
+Producto:29 Prod_Altamirano descripcion Altamirano cat:7 Limpieza 163314
+Producto:30 Prod_Zevallos descripcion Zevallos cat:7 Limpieza 163314
+Producto:31 Prod_Jose Francisco descripcion Jose Francisco cat:8 Limpieza 163314
+Producto:32 Prod_Altamirano descripcion Altamirano cat:8 Limpieza 163314
+Producto:33 Prod_Zevallos descripcion Zevallos cat:8 Limpieza 163314
+Producto:34 Prod_Jose Francisco descripcion Jose Francisco cat:9 Limpieza 163314
+Producto:35 Prod_Altamirano descripcion Altamirano cat:9 Limpieza 163314
+Producto:36 Prod_Zevallos descripcion Zevallos cat:9 Limpieza 163314
+Producto:37 Prod_Jose Francisco descripcion Jose Francisco cat:10 Limpieza 163314
+Producto:38 Prod_Altamirano descripcion Altamirano cat:10 Limpieza 163314
+Producto:39 Prod_Zevallos descripcion Zevallos cat:10 Limpieza 163314
+Producto:40 Prod_Jose Francisco descripcion Jose Francisco cat:11 Limpieza 163314
+Producto:41 Prod_Altamirano descripcion Altamirano cat:11 Limpieza 163314
+Producto:42 Prod_Zevallos descripcion Zevallos cat:11 Limpieza 163314
+Producto:43 Prod_Jose Francisco descripcion Jose Francisco cat:12 Limpieza 163314
+Producto:44 Prod_Altamirano descripcion Altamirano cat:12 Limpieza 163314
+Producto:45 Prod_Zevallos descripcion Zevallos cat:12 Limpieza 163314
+Producto:46 Prod_Jose Francisco descripcion Jose Francisco cat:13 Limpieza 163314
+Producto:47 Prod_Altamirano descripcion Altamirano cat:13 Limpieza 163314
+Producto:48 Prod_Zevallos descripcion Zevallos cat:13 Limpieza 163314
+Producto:49 Prod_Jose Francisco descripcion Jose Francisco cat:14 Limpieza 163314
+Producto:50 Prod_Altamirano descripcion Altamirano cat:14 Limpieza 163314
+Producto:51 Prod_Zevallos descripcion Zevallos cat:14 Limpieza 163314
+Producto:52 Prod_Jose Francisco descripcion Jose Francisco cat:15 Limpieza 163314
+Producto:53 Prod_Altamirano descripcion Altamirano cat:15 Limpieza 163314
+Producto:54 Prod_Zevallos descripcion Zevallos cat:15 Limpieza 163314
+Producto:55 Prod_Jose Francisco descripcion Jose Francisco cat:16 Limpieza 163314
+Producto:56 Prod_Altamirano descripcion Altamirano cat:16 Limpieza 163314
+Producto:57 Prod_Zevallos descripcion Zevallos cat:16 Limpieza 163314
+Producto:58 Prod_Jose Francisco descripcion Jose Francisco cat:17 Limpieza 163314
+Producto:59 Prod_Altamirano descripcion Altamirano cat:17 Limpieza 163314
+Producto:60 Prod_Zevallos descripcion Zevallos cat:17 Limpieza 163314
+Producto:61 Prod_Jose Francisco descripcion Jose Francisco cat:18 Limpieza 163314
+Producto:62 Prod_Altamirano descripcion Altamirano cat:18 Limpieza 163314
+Producto:63 Prod_Zevallos descripcion Zevallos cat:18 Limpieza 163314
+Producto:64 Prod_Jose Francisco descripcion Jose Francisco cat:19 Limpieza 163314
+Producto:65 Prod_Altamirano descripcion Altamirano cat:19 Limpieza 163314
+Producto:66 Prod_Zevallos descripcion Zevallos cat:19 Limpieza 163314
+Producto:67 Prod_Jose Francisco descripcion Jose Francisco cat:20 Limpieza 163314
+Producto:68 Prod_Altamirano descripcion Altamirano cat:20 Limpieza 163314
+Producto:69 Prod_Zevallos descripcion Zevallos cat:20 Limpieza 163314
+Producto:70 Prod_Jose Francisco descripcion Jose Francisco cat:21 Limpieza 163314
+Producto:71 Prod_Altamirano descripcion Altamirano cat:21 Limpieza 163314
+Producto:72 Prod_Zevallos descripcion Zevallos cat:21 Limpieza 163314
+Producto:73 Prod_Jose Francisco descripcion Jose Francisco cat:22 Limpieza 163314
+Producto:74 Prod_Altamirano descripcion Altamirano cat:22 Limpieza 163314
+Producto:75 Prod_Zevallos descripcion Zevallos cat:22 Limpieza 163314
+Producto:76 Prod_Jose Francisco descripcion Jose Francisco cat:23 Limpieza 163314
+Producto:77 Prod_Altamirano descripcion Altamirano cat:23 Limpieza 163314
+Producto:78 Prod_Zevallos descripcion Zevallos cat:23 Limpieza 163314
+Producto:79 Prod_Jose Francisco descripcion Jose Francisco cat:24 Limpieza 163314
+Producto:80 Prod_Altamirano descripcion Altamirano cat:24 Limpieza 163314
+Producto:81 Prod_Zevallos descripcion Zevallos cat:24 Limpieza 163314
+Producto:82 Prod_Jose Francisco descripcion Jose Francisco cat:25 Limpieza 163314
+Producto:83 Prod_Altamirano descripcion Altamirano cat:25 Limpieza 163314
+Producto:84 Prod_Zevallos descripcion Zevallos cat:25 Limpieza 163314
+Producto:85 Prod_Jose Francisco descripcion Jose Francisco cat:26 Limpieza 163314
+Producto:86 Prod_Altamirano descripcion Altamirano cat:26 Limpieza 163314
+Producto:87 Prod_Zevallos descripcion Zevallos cat:26 Limpieza 163314
+Producto:88 Prod_Jose Francisco descripcion Jose Francisco cat:27 Limpieza 163314
+Producto:89 Prod_Altamirano descripcion Altamirano cat:27 Limpieza 163314
+Producto:90 Prod_Zevallos descripcion Zevallos cat:27 Limpieza 163314
+Producto:91 Prod_Jose Francisco descripcion Jose Francisco cat:28 Limpieza 163314
+Producto:92 Prod_Altamirano descripcion Altamirano cat:28 Limpieza 163314
+Producto:93 Prod_Zevallos descripcion Zevallos cat:28 Limpieza 163314
+Producto:94 Prod_Jose Francisco descripcion Jose Francisco cat:29 Limpieza 163314
+Producto:95 Prod_Altamirano descripcion Altamirano cat:29 Limpieza 163314
+Producto:96 Prod_Zevallos descripcion Zevallos cat:29 Limpieza 163314
+Producto:97 Prod_Jose Francisco descripcion Jose Francisco cat:30 Limpieza 163314
+Producto:98 Prod_Altamirano descripcion Altamirano cat:30 Limpieza 163314
+Producto:99 Prod_Zevallos descripcion Zevallos cat:30 Limpieza 163314
+Producto:100 Prod_Jose Francisco descripcion Jose Francisco cat:31 Limpieza 163314
+Producto:101 Prod_Altamirano descripcion Altamirano cat:31 Limpieza 163314
+Producto:102 Prod_Zevallos descripcion Zevallos cat:31 Limpieza 163314
+Producto:103 Prod_Jose Francisco descripcion Jose Francisco cat:32 Limpieza 163314
+Producto:104 Prod_Altamirano descripcion Altamirano cat:32 Limpieza 163314
+Producto:105 Prod_Zevallos descripcion Zevallos cat:32 Limpieza 163314
+Producto:106 Prod_Jose Francisco descripcion Jose Francisco cat:33 Limpieza 163314
+Producto:107 Prod_Altamirano descripcion Altamirano cat:33 Limpieza 163314
+Producto:108 Prod_Zevallos descripcion Zevallos cat:33 Limpieza 163314
+Producto:109 Prod_Jose Francisco descripcion Jose Francisco cat:34 Limpieza 163314
+Producto:110 Prod_Altamirano descripcion Altamirano cat:34 Limpieza 163314
+Producto:111 Prod_Zevallos descripcion Zevallos cat:34 Limpieza 163314
+Producto:112 Prod_Jose Francisco descripcion Jose Francisco cat:35 Limpieza 163314
+Producto:113 Prod_Altamirano descripcion Altamirano cat:35 Limpieza 163314
+Producto:114 Prod_Zevallos descripcion Zevallos cat:35 Limpieza 163314
+Producto:115 Prod_Jose Francisco descripcion Jose Francisco cat:36 Limpieza 163314
+Producto:116 Prod_Altamirano descripcion Altamirano cat:36 Limpieza 163314
+Producto:117 Prod_Zevallos descripcion Zevallos cat:36 Limpieza 163314
+Producto:118 Prod_Jose Francisco descripcion Jose Francisco cat:37 Limpieza 163314
+Producto:119 Prod_Altamirano descripcion Altamirano cat:37 Limpieza 163314
+Producto:120 Prod_Zevallos descripcion Zevallos cat:37 Limpieza 163314
+Producto:121 Prod_Jose Francisco descripcion Jose Francisco cat:38 Limpieza 163314
+Producto:122 Prod_Altamirano descripcion Altamirano cat:38 Limpieza 163314
+Producto:123 Prod_Zevallos descripcion Zevallos cat:38 Limpieza 163314
+Producto:124 Nombre Descripcion cat:1 dairy
+Producto:125 Prod_Jose Francisco descripcion Jose Francisco cat:39 Limpieza 163314
+Producto:126 Prod_Altamirano descripcion Altamirano cat:39 Limpieza 163314
+Producto:127 Prod_Zevallos descripcion Zevallos cat:39 Limpieza 163314
+Producto:128 Prod_Jose Francisco descripcion Jose Francisco cat:40 Limpieza 163314
+Producto:129 Prod_Altamirano descripcion Altamirano cat:40 Limpieza 163314
+Producto:130 Prod_Zevallos descripcion Zevallos cat:40 Limpieza 163314
+Producto:131 Prod_Jose Francisco descripcion Jose Francisco cat:41 Limpieza 163314
+Producto:132 Prod_Altamirano descripcion Altamirano cat:41 Limpieza 163314
+Producto:133 Prod_Zevallos descripcion Zevallos cat:41 Limpieza 163314
+Producto:134 Prod_Jose Francisco descripcion Jose Francisco cat:42 Limpieza 163314
+Producto:135 Prod_Altamirano descripcion Altamirano cat:42 Limpieza 163314
+Producto:136 Prod_Zevallos descripcion Zevallos cat:42 Limpieza 163314
+Producto:137 Prod_Jose Francisco descripcion Jose Francisco cat:43 Limpieza 163314
+Producto:138 Prod_Altamirano descripcion Altamirano cat:43 Limpieza 163314
+Producto:139 Prod_Zevallos descripcion Zevallos cat:43 Limpieza 163314
+Producto:140 Prod_Jose Francisco descripcion Jose Francisco cat:44 Limpieza 163314
+Producto:141 Prod_Altamirano descripcion Altamirano cat:44 Limpieza 163314
+Producto:142 Prod_Zevallos descripcion Zevallos cat:44 Limpieza 163314
+Producto:143 Prod_Jose Francisco descripcion Jose Francisco cat:45 Limpieza 163314
+Producto:144 Prod_Altamirano descripcion Altamirano cat:45 Limpieza 163314
+Producto:145 Prod_Zevallos descripcion Zevallos cat:45 Limpieza 163314
+Producto:146 Prod_Jose Francisco descripcion Jose Francisco cat:46 Limpieza 163314
+Producto:147 Prod_Altamirano descripcion Altamirano cat:46 Limpieza 163314
+Producto:148 Prod_Zevallos descripcion Zevallos cat:46 Limpieza 163314
+Producto:149 Prod_Jose Francisco descripcion Jose Francisco cat:47 Limpieza 163314
+Producto:150 Prod_Altamirano descripcion Altamirano cat:47 Limpieza 163314
+Producto:151 Prod_Zevallos descripcion Zevallos cat:47 Limpieza 163314
+Producto:152 Prod_Jose Francisco descripcion Jose Francisco cat:48 Limpieza 163314
+Producto:153 Prod_Altamirano descripcion Altamirano cat:48 Limpieza 163314
+Producto:154 Prod_Zevallos descripcion Zevallos cat:48 Limpieza 163314
+Producto:155 Prod_Jose Francisco descripcion Jose Francisco cat:49 Limpieza 163314
+Producto:156 Prod_Altamirano descripcion Altamirano cat:49 Limpieza 163314
+Producto:157 Prod_Zevallos descripcion Zevallos cat:49 Limpieza 163314
+Producto:158 Prod_Jose Francisco descripcion Jose Francisco cat:50 Limpieza 163314
+Producto:159 Prod_Altamirano descripcion Altamirano cat:50 Limpieza 163314
+Producto:160 Prod_Zevallos descripcion Zevallos cat:50 Limpieza 163314
+Producto:161 Prod_Jose Francisco descripcion Jose Francisco cat:51 Limpieza 163314
+Producto:162 Prod_Altamirano descripcion Altamirano cat:51 Limpieza 163314
+Producto:163 Prod_Zevallos descripcion Zevallos cat:51 Limpieza 163314
+Producto:164 Prod_Jose Francisco descripcion Jose Francisco cat:52 Limpieza 163314
+Producto:165 Prod_Altamirano descripcion Altamirano cat:52 Limpieza 163314
+Producto:166 Prod_Zevallos descripcion Zevallos cat:52 Limpieza 163314
+Producto:167 Prod_Jose Francisco descripcion Jose Francisco cat:53 Limpieza 163314
+Producto:168 Prod_Altamirano descripcion Altamirano cat:53 Limpieza 163314
+Producto:169 Prod_Zevallos descripcion Zevallos cat:53 Limpieza 163314
+Producto:170 Prod_Jose Francisco descripcion Jose Francisco cat:54 Limpieza 163314
+Producto:171 Prod_Altamirano descripcion Altamirano cat:54 Limpieza 163314
+Producto:172 Prod_Zevallos descripcion Zevallos cat:54 Limpieza 163314
+Producto:173 Prod_Jose Francisco descripcion Jose Francisco cat:55 Limpieza 163314
+Producto:174 Prod_Altamirano descripcion Altamirano cat:55 Limpieza 163314
+Producto:175 Prod_Zevallos descripcion Zevallos cat:55 Limpieza 163314
+Producto:176 Prod_Jose Francisco descripcion Jose Francisco cat:56 Limpieza 163314
+Producto:177 Prod_Altamirano descripcion Altamirano cat:56 Limpieza 163314
+Producto:178 Prod_Zevallos descripcion Zevallos cat:56 Limpieza 163314
+Producto:179 Prod_Jose Francisco descripcion Jose Francisco cat:57 Limpieza 163314
+Producto:180 Prod_Altamirano descripcion Altamirano cat:57 Limpieza 163314
+Producto:181 Prod_Zevallos descripcion Zevallos cat:57 Limpieza 163314
+Producto:182 Prod_Jose Francisco descripcion Jose Francisco cat:58 Limpieza 163314
+Producto:183 Prod_Altamirano descripcion Altamirano cat:58 Limpieza 163314
+Producto:184 Prod_Zevallos descripcion Zevallos cat:58 Limpieza 163314
+Producto:185 Prod_Jose Francisco descripcion Jose Francisco cat:59 Limpieza 163314
+Producto:186 Prod_Altamirano descripcion Altamirano cat:59 Limpieza 163314
+Producto:187 Prod_Zevallos descripcion Zevallos cat:59 Limpieza 163314
+Producto:188 Prod_Jose Francisco descripcion Jose Francisco cat:60 Limpieza 163314
+Producto:189 Prod_Altamirano descripcion Altamirano cat:60 Limpieza 163314
+Producto:190 Prod_Zevallos descripcion Zevallos cat:60 Limpieza 163314
+Producto:191 Prod_Jose Francisco descripcion Jose Francisco cat:61 Limpieza 163314
+Producto:192 Prod_Altamirano descripcion Altamirano cat:61 Limpieza 163314
+Producto:193 Prod_Zevallos descripcion Zevallos cat:61 Limpieza 163314
+Producto:194 Prod_Jose Francisco descripcion Jose Francisco cat:62 Limpieza 163314
+Producto:195 Prod_Altamirano descripcion Altamirano cat:62 Limpieza 163314
+Producto:196 Prod_Zevallos descripcion Zevallos cat:62 Limpieza 163314
+Se ha dado de alta el clte:73 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Lista de Clientes:
+Clte:1 Rafael Gregorio Rio Hondo 1 ccNumber MT 5556284061 rgamboa@itam.mx
+Clte:2 Rafael Gregorio Rio Hondo 1 ccNumber MT 5556284061 rgamboa@itam.mx
+Clte:3 Rafael Gregorio Rio Hondo 1 ccNumber MT 5556284061 rgamboa@itam.mx
+Clte:4 Rafael Gregorio Rio Hondo 1 ccNumber MT 5556284061 rgamboa@itam.mx
+Clte:5 Rafael Gregorio Rio Hondo 1 ccNumber MT 5556284061 rgamboa@itam.mx
+Clte:6 Rafael Gregorio Rio Hondo 1 ccNumber MT 5556284061 rgamboa@itam.mx
+Clte:7 Rafael Gregorio Rio Hondo 1 ccNumber MT 5556284061 rgamboa@itam.mx
+Clte:8 Rafael Gregorio Rio Hondo 1 ccNumber MT 5556284061 rgamboa@itam.mx
+Clte:9 Rafael Gregorio Rio Hondo 1 ccNumber MT 5556284061 rgamboa@itam.mx
+Clte:10 Rafael Gregorio Rio Hondo 1 ccNumber MT 5556284061 rgamboa@itam.mx
+Clte:11 Rafael Gregorio Rio Hondo 1 ccNumber MT 5556284061 rgamboa@itam.mx
+Clte:12 Rafael Gregorio Rio Hondo 1 ccNumber MT 5556284061 rgamboa@itam.mx
+Clte:13 Rafael Gregorio Rio Hondo 1 ccNumber MT 5556284061 rgamboa@itam.mx
+Clte:14 Rafael Gregorio Rio Hondo 1 ccNumber MT 5556284061 rgamboa@itam.mx
+Clte:15 Rafael Gregorio Rio Hondo 1 ccNumber MT 5556284061 rgamboa@itam.mx
+Clte:16 Rafael Gregorio Rio Hondo 1 ccNumber MT 5556284061 rgamboa@itam.mx
+Clte:17 Rafael Gregorio Rio Hondo 1 ccNumber MT 5556284061 rgamboa@itam.mx
+Clte:18 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:19 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:20 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:21 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:22 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:23 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:24 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:25 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:26 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:27 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:28 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:29 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:30 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:31 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:32 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:33 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:34 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:35 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:36 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:37 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:38 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:39 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:40 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:41 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:42 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:43 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:44 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:45 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:46 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:47 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:48 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:49 Rafael Gregorio Rio Hondo 1 ccNumber MT 5556284061 rgamboa@itam.mx
+Clte:50 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:51 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:52 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:53 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:54 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:55 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:56 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:57 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:58 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:59 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:60 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:61 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:62 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:63 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:64 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:65 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:66 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:67 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:68 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:69 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:70 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:71 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:72 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Clte:73 Jose Francisco Altamirano Zevallos Rio Hondo 1 163314 MX 5556284000 rgamboa@itam.mx
+Lista de Encabezados de Pedidos:
+CustomerOrder: Id:1 Fecha:2020-10-06T09:00:00-05:00 Clte:7 Rafael Gregorio Num. conf:10 Monto:100.75
+CustomerOrder: Id:2 Fecha:2020-10-06T09:00:00-05:00 Clte:8 Rafael Gregorio Num. conf:10 Monto:100.75
+CustomerOrder: Id:3 Fecha:2020-10-06T09:00:00-05:00 Clte:9 Rafael Gregorio Num. conf:10 Monto:100.75
+CustomerOrder: Id:4 Fecha:2020-10-06T09:00:00-05:00 Clte:10 Rafael Gregorio Num. conf:10 Monto:100.75
+CustomerOrder: Id:5 Fecha:2020-10-06T09:00:00-05:00 Clte:11 Rafael Gregorio Num. conf:10 Monto:100.75
+CustomerOrder: Id:6 Fecha:2020-10-06T09:00:00-05:00 Clte:12 Rafael Gregorio Num. conf:10 Monto:100.75
+CustomerOrder: Id:7 Fecha:2020-10-06T09:00:00-05:00 Clte:13 Rafael Gregorio Num. conf:10 Monto:100.75
+CustomerOrder: Id:8 Fecha:2020-10-06T09:00:00-05:00 Clte:14 Rafael Gregorio Num. conf:10 Monto:100.75
+CustomerOrder: Id:9 Fecha:2020-10-06T09:00:00-05:00 Clte:15 Rafael Gregorio Num. conf:10 Monto:100.75
+CustomerOrder: Id:10 Fecha:2020-10-06T09:00:00-05:00 Clte:16 Rafael Gregorio Num. conf:10 Monto:100.75
+CustomerOrder: Id:11 Fecha:2020-10-06T09:00:00-05:00 Clte:17 Rafael Gregorio Num. conf:10 Monto:100.75
+CustomerOrder: Id:12 Fecha:2020-11-10T11:24:02.279-06:00 Clte:20 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:13 Fecha:2020-11-10T11:24:02.279-06:00 Clte:20 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:14 Fecha:2020-11-10T11:36:29.281-06:00 Clte:21 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:15 Fecha:2020-11-10T11:36:29.281-06:00 Clte:21 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:16 Fecha:2020-11-10T11:54:27.405-06:00 Clte:22 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:17 Fecha:2020-11-10T11:54:27.405-06:00 Clte:22 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:18 Fecha:2020-11-10T11:54:55.333-06:00 Clte:23 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:19 Fecha:2020-11-10T11:54:55.333-06:00 Clte:23 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:20 Fecha:2020-11-10T11:55:48.462-06:00 Clte:24 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:21 Fecha:2020-11-10T11:55:48.462-06:00 Clte:24 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:22 Fecha:2020-11-10T11:56:25.522-06:00 Clte:25 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:23 Fecha:2020-11-10T11:56:25.522-06:00 Clte:25 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:24 Fecha:2020-11-10T11:56:35.119-06:00 Clte:26 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:25 Fecha:2020-11-10T11:56:35.119-06:00 Clte:26 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:26 Fecha:2020-11-10T11:59:23.826-06:00 Clte:27 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:27 Fecha:2020-11-10T11:59:23.826-06:00 Clte:27 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:28 Fecha:2020-11-10T12:03:49.672-06:00 Clte:28 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:29 Fecha:2020-11-10T12:03:49.672-06:00 Clte:28 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:30 Fecha:2020-11-10T12:06:59.362-06:00 Clte:29 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:31 Fecha:2020-11-10T12:06:59.362-06:00 Clte:29 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:32 Fecha:2020-11-10T12:07:15.177-06:00 Clte:30 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:33 Fecha:2020-11-10T12:07:15.177-06:00 Clte:30 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:34 Fecha:2020-11-10T12:08:46.859-06:00 Clte:31 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:35 Fecha:2020-11-10T12:08:46.859-06:00 Clte:31 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:36 Fecha:2020-11-10T12:11:06.925-06:00 Clte:32 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:37 Fecha:2020-11-10T12:11:06.925-06:00 Clte:32 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:38 Fecha:2020-11-10T12:16:06.532-06:00 Clte:33 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:39 Fecha:2020-11-10T12:16:06.532-06:00 Clte:33 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:40 Fecha:2020-11-10T12:22:00.814-06:00 Clte:34 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:41 Fecha:2020-11-10T12:22:00.814-06:00 Clte:34 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:42 Fecha:2020-11-10T12:22:58.343-06:00 Clte:35 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:43 Fecha:2020-11-10T12:22:58.343-06:00 Clte:35 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:44 Fecha:2020-11-10T12:23:33.793-06:00 Clte:36 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:45 Fecha:2020-11-10T12:23:33.793-06:00 Clte:36 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:46 Fecha:2020-11-10T12:25:50.163-06:00 Clte:37 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:47 Fecha:2020-11-10T12:25:50.163-06:00 Clte:37 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:48 Fecha:2020-11-10T12:26:46.697-06:00 Clte:38 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:49 Fecha:2020-11-10T12:26:46.697-06:00 Clte:38 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:50 Fecha:2020-11-10T12:27:08.498-06:00 Clte:39 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:51 Fecha:2020-11-10T12:27:08.498-06:00 Clte:39 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:52 Fecha:2020-11-10T12:27:22.250-06:00 Clte:40 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:53 Fecha:2020-11-10T12:27:22.250-06:00 Clte:40 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:54 Fecha:2020-11-10T12:27:45.452-06:00 Clte:41 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:55 Fecha:2020-11-10T12:27:45.452-06:00 Clte:41 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:56 Fecha:2020-11-10T12:27:55.079-06:00 Clte:42 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:57 Fecha:2020-11-10T12:27:55.079-06:00 Clte:42 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:58 Fecha:2020-11-10T12:29:56.103-06:00 Clte:43 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:59 Fecha:2020-11-10T12:29:56.103-06:00 Clte:43 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:60 Fecha:2020-11-14T09:27:28.780-06:00 Clte:44 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:61 Fecha:2020-11-14T09:27:28.780-06:00 Clte:44 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:62 Fecha:2020-11-14T11:43:44.302-06:00 Clte:45 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:63 Fecha:2020-11-14T11:43:44.302-06:00 Clte:45 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:64 Fecha:2020-11-14T11:45:59.069-06:00 Clte:46 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:65 Fecha:2020-11-14T11:45:59.069-06:00 Clte:46 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:66 Fecha:2020-11-14T11:47:59.354-06:00 Clte:47 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:67 Fecha:2020-11-14T11:47:59.354-06:00 Clte:47 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:68 Fecha:2020-11-14T11:51:26.386-06:00 Clte:48 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:69 Fecha:2020-11-14T11:51:26.386-06:00 Clte:48 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:70 Fecha:2020-10-06T09:00:00-05:00 Clte:49 Rafael Gregorio Num. conf:10 Monto:100.75
+CustomerOrder: Id:71 Fecha:2020-11-14T12:26:30.587-06:00 Clte:50 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:72 Fecha:2020-11-14T12:26:30.587-06:00 Clte:50 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:73 Fecha:2020-11-14T12:28:32.730-06:00 Clte:51 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:74 Fecha:2020-11-14T12:28:32.730-06:00 Clte:51 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:75 Fecha:2020-11-14T12:31:59.553-06:00 Clte:52 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:76 Fecha:2020-11-14T12:31:59.553-06:00 Clte:52 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:77 Fecha:2020-11-14T12:48:45.181-06:00 Clte:53 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:78 Fecha:2020-11-14T12:48:45.181-06:00 Clte:53 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:79 Fecha:2020-11-14T12:49:20.206-06:00 Clte:54 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:80 Fecha:2020-11-14T12:49:20.206-06:00 Clte:54 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:81 Fecha:2020-11-14T12:50:41.518-06:00 Clte:55 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:82 Fecha:2020-11-14T12:50:41.518-06:00 Clte:55 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:83 Fecha:2020-11-14T12:51:41.003-06:00 Clte:56 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:84 Fecha:2020-11-14T12:51:41.003-06:00 Clte:56 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:85 Fecha:2020-11-14T12:53:13.251-06:00 Clte:57 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:86 Fecha:2020-11-14T12:53:13.251-06:00 Clte:57 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:87 Fecha:2020-11-14T12:55:20.449-06:00 Clte:58 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:88 Fecha:2020-11-14T12:55:20.449-06:00 Clte:58 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:89 Fecha:2020-11-14T12:58:55.844-06:00 Clte:59 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:90 Fecha:2020-11-14T12:58:55.844-06:00 Clte:59 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:91 Fecha:2020-11-14T13:13:52.269-06:00 Clte:60 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:92 Fecha:2020-11-14T13:13:52.269-06:00 Clte:60 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:93 Fecha:2020-11-14T13:31:07.670-06:00 Clte:61 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:94 Fecha:2020-11-14T13:31:07.670-06:00 Clte:61 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:95 Fecha:2020-11-14T13:32:28.307-06:00 Clte:62 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:96 Fecha:2020-11-14T13:32:28.307-06:00 Clte:62 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:97 Fecha:2020-11-14T13:42:37.677-06:00 Clte:63 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:98 Fecha:2020-11-14T13:42:37.677-06:00 Clte:63 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:99 Fecha:2020-11-14T13:52:26.749-06:00 Clte:64 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:100 Fecha:2020-11-14T13:52:26.749-06:00 Clte:64 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:101 Fecha:2020-11-14T14:04:26.872-06:00 Clte:65 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:102 Fecha:2020-11-14T14:04:26.872-06:00 Clte:65 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:103 Fecha:2020-11-14T14:04:53.839-06:00 Clte:66 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:104 Fecha:2020-11-14T14:04:53.839-06:00 Clte:66 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:105 Fecha:2020-11-14T14:05:53.857-06:00 Clte:67 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:106 Fecha:2020-11-14T14:05:53.857-06:00 Clte:67 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:107 Fecha:2020-11-14T14:06:02.929-06:00 Clte:68 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:108 Fecha:2020-11-14T14:06:02.929-06:00 Clte:68 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:109 Fecha:2020-11-14T14:06:14.269-06:00 Clte:69 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40.00
+CustomerOrder: Id:110 Fecha:2020-11-14T14:06:14.269-06:00 Clte:69 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80.00
+CustomerOrder: Id:111 Fecha:2020-11-14T14:13:19.822-06:00 Clte:70 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40
+CustomerOrder: Id:112 Fecha:2020-11-14T14:13:19.822-06:00 Clte:70 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80
+CustomerOrder: Id:113 Fecha:2020-11-14T14:15:21.911-06:00 Clte:71 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40
+CustomerOrder: Id:114 Fecha:2020-11-14T14:15:21.911-06:00 Clte:71 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80
+CustomerOrder: Id:115 Fecha:2020-11-14T14:16:17.351-06:00 Clte:72 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40
+CustomerOrder: Id:116 Fecha:2020-11-14T14:16:17.351-06:00 Clte:72 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80
+CustomerOrder: Id:117 Fecha:2020-11-14T14:16:32.670-06:00 Clte:73 Jose Francisco Altamirano Zevallos Num. conf:1 Monto:40
+CustomerOrder: Id:118 Fecha:2020-11-14T14:16:32.670-06:00 Clte:73 Jose Francisco Altamirano Zevallos Num. conf:2 Monto:80
+Lista de Items de Pedidos:
+CustomerOrder: No.Pedido:1 Producto:1 milk Cantidad:5
+CustomerOrder: No.Pedido:1 Producto:2 cheese Cantidad:5
+CustomerOrder: No.Pedido:1 Producto:3 butter Cantidad:5
+CustomerOrder: No.Pedido:1 Producto:4 free range eggs Cantidad:5
+CustomerOrder: No.Pedido:1 Producto:5 organic meat patties Cantidad:5
+CustomerOrder: No.Pedido:1 Producto:6 parma ham Cantidad:5
+CustomerOrder: No.Pedido:2 Producto:1 milk Cantidad:5
+CustomerOrder: No.Pedido:2 Producto:2 cheese Cantidad:5
+CustomerOrder: No.Pedido:2 Producto:3 butter Cantidad:5
+CustomerOrder: No.Pedido:2 Producto:4 free range eggs Cantidad:5
+CustomerOrder: No.Pedido:2 Producto:5 organic meat patties Cantidad:5
+CustomerOrder: No.Pedido:2 Producto:6 parma ham Cantidad:5
+CustomerOrder: No.Pedido:3 Producto:1 milk Cantidad:5
+CustomerOrder: No.Pedido:3 Producto:2 cheese Cantidad:5
+CustomerOrder: No.Pedido:3 Producto:3 butter Cantidad:5
+CustomerOrder: No.Pedido:3 Producto:4 free range eggs Cantidad:5
+CustomerOrder: No.Pedido:3 Producto:5 organic meat patties Cantidad:5
+CustomerOrder: No.Pedido:3 Producto:6 parma ham Cantidad:5
+CustomerOrder: No.Pedido:4 Producto:1 milk Cantidad:5
+CustomerOrder: No.Pedido:4 Producto:2 cheese Cantidad:5
+CustomerOrder: No.Pedido:4 Producto:3 butter Cantidad:5
+CustomerOrder: No.Pedido:4 Producto:4 free range eggs Cantidad:5
+CustomerOrder: No.Pedido:4 Producto:5 organic meat patties Cantidad:5
+CustomerOrder: No.Pedido:4 Producto:6 parma ham Cantidad:5
+CustomerOrder: No.Pedido:5 Producto:1 milk Cantidad:5
+CustomerOrder: No.Pedido:5 Producto:2 cheese Cantidad:5
+CustomerOrder: No.Pedido:5 Producto:3 butter Cantidad:5
+CustomerOrder: No.Pedido:5 Producto:4 free range eggs Cantidad:5
+CustomerOrder: No.Pedido:5 Producto:5 organic meat patties Cantidad:5
+CustomerOrder: No.Pedido:5 Producto:6 parma ham Cantidad:5
+CustomerOrder: No.Pedido:6 Producto:1 milk Cantidad:5
+CustomerOrder: No.Pedido:6 Producto:2 cheese Cantidad:5
+CustomerOrder: No.Pedido:6 Producto:3 butter Cantidad:5
+CustomerOrder: No.Pedido:6 Producto:4 free range eggs Cantidad:5
+CustomerOrder: No.Pedido:6 Producto:5 organic meat patties Cantidad:5
+CustomerOrder: No.Pedido:6 Producto:6 parma ham Cantidad:5
+CustomerOrder: No.Pedido:7 Producto:1 milk Cantidad:5
+CustomerOrder: No.Pedido:7 Producto:2 cheese Cantidad:5
+CustomerOrder: No.Pedido:7 Producto:3 butter Cantidad:5
+CustomerOrder: No.Pedido:7 Producto:4 free range eggs Cantidad:5
+CustomerOrder: No.Pedido:7 Producto:5 organic meat patties Cantidad:5
+CustomerOrder: No.Pedido:7 Producto:6 parma ham Cantidad:5
+CustomerOrder: No.Pedido:8 Producto:1 milk Cantidad:5
+CustomerOrder: No.Pedido:8 Producto:2 cheese Cantidad:5
+CustomerOrder: No.Pedido:8 Producto:3 butter Cantidad:5
+CustomerOrder: No.Pedido:8 Producto:4 free range eggs Cantidad:5
+CustomerOrder: No.Pedido:8 Producto:5 organic meat patties Cantidad:5
+CustomerOrder: No.Pedido:8 Producto:6 parma ham Cantidad:5
+CustomerOrder: No.Pedido:9 Producto:1 milk Cantidad:5
+CustomerOrder: No.Pedido:9 Producto:2 cheese Cantidad:5
+CustomerOrder: No.Pedido:9 Producto:3 butter Cantidad:5
+CustomerOrder: No.Pedido:9 Producto:4 free range eggs Cantidad:5
+CustomerOrder: No.Pedido:9 Producto:5 organic meat patties Cantidad:5
+CustomerOrder: No.Pedido:9 Producto:6 parma ham Cantidad:5
+CustomerOrder: No.Pedido:10 Producto:1 milk Cantidad:5
+CustomerOrder: No.Pedido:10 Producto:2 cheese Cantidad:5
+CustomerOrder: No.Pedido:10 Producto:3 butter Cantidad:5
+CustomerOrder: No.Pedido:10 Producto:4 free range eggs Cantidad:5
+CustomerOrder: No.Pedido:10 Producto:5 organic meat patties Cantidad:5
+CustomerOrder: No.Pedido:10 Producto:6 parma ham Cantidad:5
+CustomerOrder: No.Pedido:11 Producto:1 milk Cantidad:5
+CustomerOrder: No.Pedido:11 Producto:2 cheese Cantidad:5
+CustomerOrder: No.Pedido:11 Producto:3 butter Cantidad:5
+CustomerOrder: No.Pedido:11 Producto:4 free range eggs Cantidad:5
+CustomerOrder: No.Pedido:11 Producto:5 organic meat patties Cantidad:5
+CustomerOrder: No.Pedido:11 Producto:6 parma ham Cantidad:5
+CustomerOrder: No.Pedido:14 Producto:40 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:14 Producto:41 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:14 Producto:42 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:15 Producto:40 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:15 Producto:41 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:15 Producto:42 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:16 Producto:43 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:16 Producto:44 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:16 Producto:45 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:17 Producto:43 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:17 Producto:44 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:17 Producto:45 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:18 Producto:46 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:18 Producto:47 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:18 Producto:48 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:19 Producto:46 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:19 Producto:47 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:19 Producto:48 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:20 Producto:49 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:20 Producto:50 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:20 Producto:51 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:21 Producto:49 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:21 Producto:50 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:21 Producto:51 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:22 Producto:52 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:22 Producto:53 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:22 Producto:54 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:23 Producto:52 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:23 Producto:53 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:23 Producto:54 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:24 Producto:55 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:24 Producto:56 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:24 Producto:57 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:25 Producto:55 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:25 Producto:56 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:25 Producto:57 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:26 Producto:58 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:26 Producto:59 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:26 Producto:60 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:27 Producto:58 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:27 Producto:59 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:27 Producto:60 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:28 Producto:61 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:28 Producto:62 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:28 Producto:63 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:29 Producto:61 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:29 Producto:62 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:29 Producto:63 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:30 Producto:64 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:30 Producto:65 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:30 Producto:66 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:31 Producto:64 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:31 Producto:65 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:31 Producto:66 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:32 Producto:67 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:32 Producto:68 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:32 Producto:69 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:33 Producto:67 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:33 Producto:68 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:33 Producto:69 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:34 Producto:70 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:34 Producto:71 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:34 Producto:72 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:35 Producto:70 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:35 Producto:71 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:35 Producto:72 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:36 Producto:73 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:36 Producto:74 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:36 Producto:75 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:37 Producto:73 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:37 Producto:74 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:37 Producto:75 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:38 Producto:76 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:38 Producto:77 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:38 Producto:78 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:39 Producto:76 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:39 Producto:77 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:39 Producto:78 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:40 Producto:79 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:40 Producto:80 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:40 Producto:81 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:41 Producto:79 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:41 Producto:80 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:41 Producto:81 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:42 Producto:82 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:42 Producto:83 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:42 Producto:84 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:43 Producto:82 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:43 Producto:83 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:43 Producto:84 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:44 Producto:85 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:44 Producto:86 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:44 Producto:87 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:45 Producto:85 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:45 Producto:86 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:45 Producto:87 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:46 Producto:88 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:46 Producto:89 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:46 Producto:90 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:47 Producto:88 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:47 Producto:89 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:47 Producto:90 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:48 Producto:91 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:48 Producto:92 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:48 Producto:93 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:49 Producto:91 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:49 Producto:92 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:49 Producto:93 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:50 Producto:94 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:50 Producto:95 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:50 Producto:96 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:51 Producto:94 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:51 Producto:95 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:51 Producto:96 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:52 Producto:97 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:52 Producto:98 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:52 Producto:99 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:53 Producto:97 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:53 Producto:98 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:53 Producto:99 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:54 Producto:100 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:54 Producto:101 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:54 Producto:102 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:55 Producto:100 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:55 Producto:101 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:55 Producto:102 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:56 Producto:103 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:56 Producto:104 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:56 Producto:105 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:57 Producto:103 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:57 Producto:104 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:57 Producto:105 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:58 Producto:106 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:58 Producto:107 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:58 Producto:108 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:59 Producto:106 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:59 Producto:107 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:59 Producto:108 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:60 Producto:109 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:60 Producto:110 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:60 Producto:111 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:61 Producto:109 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:61 Producto:110 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:61 Producto:111 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:62 Producto:112 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:62 Producto:113 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:62 Producto:114 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:63 Producto:112 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:63 Producto:113 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:63 Producto:114 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:64 Producto:115 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:64 Producto:116 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:64 Producto:117 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:65 Producto:115 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:65 Producto:116 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:65 Producto:117 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:66 Producto:118 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:66 Producto:119 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:66 Producto:120 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:67 Producto:118 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:67 Producto:119 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:67 Producto:120 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:68 Producto:121 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:68 Producto:122 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:68 Producto:123 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:69 Producto:121 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:69 Producto:122 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:69 Producto:123 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:70 Producto:1 milk Cantidad:5
+CustomerOrder: No.Pedido:70 Producto:2 cheese Cantidad:5
+CustomerOrder: No.Pedido:70 Producto:3 butter Cantidad:5
+CustomerOrder: No.Pedido:70 Producto:4 free range eggs Cantidad:5
+CustomerOrder: No.Pedido:70 Producto:5 organic meat patties Cantidad:5
+CustomerOrder: No.Pedido:70 Producto:6 parma ham Cantidad:5
+CustomerOrder: No.Pedido:71 Producto:125 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:71 Producto:126 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:71 Producto:127 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:72 Producto:125 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:72 Producto:126 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:72 Producto:127 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:73 Producto:128 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:73 Producto:129 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:73 Producto:130 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:74 Producto:128 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:74 Producto:129 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:74 Producto:130 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:75 Producto:131 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:75 Producto:132 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:75 Producto:133 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:76 Producto:131 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:76 Producto:132 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:76 Producto:133 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:77 Producto:134 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:77 Producto:135 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:77 Producto:136 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:78 Producto:134 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:78 Producto:135 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:78 Producto:136 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:79 Producto:137 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:79 Producto:138 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:79 Producto:139 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:80 Producto:137 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:80 Producto:138 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:80 Producto:139 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:81 Producto:140 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:81 Producto:141 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:81 Producto:142 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:82 Producto:140 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:82 Producto:141 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:82 Producto:142 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:83 Producto:143 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:83 Producto:144 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:83 Producto:145 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:84 Producto:143 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:84 Producto:144 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:84 Producto:145 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:85 Producto:146 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:85 Producto:147 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:85 Producto:148 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:86 Producto:146 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:86 Producto:147 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:86 Producto:148 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:87 Producto:149 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:87 Producto:150 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:87 Producto:151 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:88 Producto:149 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:88 Producto:150 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:88 Producto:151 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:89 Producto:152 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:89 Producto:153 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:89 Producto:154 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:90 Producto:152 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:90 Producto:153 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:90 Producto:154 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:91 Producto:155 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:91 Producto:156 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:91 Producto:157 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:92 Producto:155 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:92 Producto:156 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:92 Producto:157 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:93 Producto:158 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:93 Producto:159 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:93 Producto:160 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:94 Producto:158 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:94 Producto:159 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:94 Producto:160 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:95 Producto:161 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:95 Producto:162 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:95 Producto:163 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:96 Producto:161 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:96 Producto:162 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:96 Producto:163 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:97 Producto:164 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:97 Producto:165 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:97 Producto:166 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:98 Producto:164 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:98 Producto:165 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:98 Producto:166 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:99 Producto:167 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:99 Producto:168 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:99 Producto:169 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:100 Producto:167 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:100 Producto:168 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:100 Producto:169 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:101 Producto:170 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:101 Producto:171 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:101 Producto:172 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:102 Producto:170 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:102 Producto:171 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:102 Producto:172 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:103 Producto:173 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:103 Producto:174 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:103 Producto:175 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:104 Producto:173 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:104 Producto:174 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:104 Producto:175 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:105 Producto:176 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:105 Producto:177 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:105 Producto:178 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:106 Producto:176 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:106 Producto:177 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:106 Producto:178 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:107 Producto:179 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:107 Producto:180 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:107 Producto:181 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:108 Producto:179 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:108 Producto:180 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:108 Producto:181 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:109 Producto:182 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:109 Producto:183 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:109 Producto:184 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:110 Producto:182 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:110 Producto:183 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:110 Producto:184 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:111 Producto:185 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:111 Producto:186 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:111 Producto:187 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:112 Producto:185 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:112 Producto:186 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:112 Producto:187 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:113 Producto:188 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:113 Producto:189 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:113 Producto:190 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:114 Producto:188 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:114 Producto:189 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:114 Producto:190 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:115 Producto:191 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:115 Producto:192 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:115 Producto:193 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:116 Producto:191 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:116 Producto:192 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:116 Producto:193 Prod_Zevallos Cantidad:10
+CustomerOrder: No.Pedido:117 Producto:194 Prod_Jose Francisco Cantidad:5
+CustomerOrder: No.Pedido:117 Producto:195 Prod_Altamirano Cantidad:5
+CustomerOrder: No.Pedido:117 Producto:196 Prod_Zevallos Cantidad:5
+CustomerOrder: No.Pedido:118 Producto:194 Prod_Jose Francisco Cantidad:10
+CustomerOrder: No.Pedido:118 Producto:195 Prod_Altamirano Cantidad:10
+CustomerOrder: No.Pedido:118 Producto:196 Prod_Zevallos Cantidad:10
+
+Encabezado: 1
+Customer ID: 100.75 Cantidad: Tue Oct 06 09:00:00 CDT 2020 Fecha de creación: 10 Número de confirmación: 
+ID del producto: 1 Nombre del producto: milk Cantidad del producto: 5 
+ID del producto: 2 Nombre del producto: cheese Cantidad del producto: 5 
+ID del producto: 3 Nombre del producto: butter Cantidad del producto: 5 
+ID del producto: 4 Nombre del producto: free range eggs Cantidad del producto: 5 
+ID del producto: 5 Nombre del producto: organic meat patties Cantidad del producto: 5 
+ID del producto: 6 Nombre del producto: parma ham Cantidad del producto: 5 
+Encabezado: 2
+Customer ID: 100.75 Cantidad: Tue Oct 06 09:00:00 CDT 2020 Fecha de creación: 10 Número de confirmación: 
+ID del producto: 1 Nombre del producto: milk Cantidad del producto: 5 
+ID del producto: 2 Nombre del producto: cheese Cantidad del producto: 5 
+ID del producto: 3 Nombre del producto: butter Cantidad del producto: 5 
+ID del producto: 4 Nombre del producto: free range eggs Cantidad del producto: 5 
+ID del producto: 5 Nombre del producto: organic meat patties Cantidad del producto: 5 
+ID del producto: 6 Nombre del producto: parma ham Cantidad del producto: 5 
+Encabezado: 3
+Customer ID: 100.75 Cantidad: Tue Oct 06 09:00:00 CDT 2020 Fecha de creación: 10 Número de confirmación: 
+ID del producto: 1 Nombre del producto: milk Cantidad del producto: 5 
+ID del producto: 2 Nombre del producto: cheese Cantidad del producto: 5 
+ID del producto: 3 Nombre del producto: butter Cantidad del producto: 5 
+ID del producto: 4 Nombre del producto: free range eggs Cantidad del producto: 5 
+ID del producto: 5 Nombre del producto: organic meat patties Cantidad del producto: 5 
+ID del producto: 6 Nombre del producto: parma ham Cantidad del producto: 5 
+Encabezado: 4
+Customer ID: 100.75 Cantidad: Tue Oct 06 09:00:00 CDT 2020 Fecha de creación: 10 Número de confirmación: 
+ID del producto: 1 Nombre del producto: milk Cantidad del producto: 5 
+ID del producto: 2 Nombre del producto: cheese Cantidad del producto: 5 
+ID del producto: 3 Nombre del producto: butter Cantidad del producto: 5 
+ID del producto: 4 Nombre del producto: free range eggs Cantidad del producto: 5 
+ID del producto: 5 Nombre del producto: organic meat patties Cantidad del producto: 5 
+ID del producto: 6 Nombre del producto: parma ham Cantidad del producto: 5 
+Encabezado: 5
+Customer ID: 100.75 Cantidad: Tue Oct 06 09:00:00 CDT 2020 Fecha de creación: 10 Número de confirmación: 
+ID del producto: 1 Nombre del producto: milk Cantidad del producto: 5 
+ID del producto: 2 Nombre del producto: cheese Cantidad del producto: 5 
+ID del producto: 3 Nombre del producto: butter Cantidad del producto: 5 
+ID del producto: 4 Nombre del producto: free range eggs Cantidad del producto: 5 
+ID del producto: 5 Nombre del producto: organic meat patties Cantidad del producto: 5 
+ID del producto: 6 Nombre del producto: parma ham Cantidad del producto: 5 
+Encabezado: 6
+Customer ID: 100.75 Cantidad: Tue Oct 06 09:00:00 CDT 2020 Fecha de creación: 10 Número de confirmación: 
+ID del producto: 1 Nombre del producto: milk Cantidad del producto: 5 
+ID del producto: 2 Nombre del producto: cheese Cantidad del producto: 5 
+ID del producto: 3 Nombre del producto: butter Cantidad del producto: 5 
+ID del producto: 4 Nombre del producto: free range eggs Cantidad del producto: 5 
+ID del producto: 5 Nombre del producto: organic meat patties Cantidad del producto: 5 
+ID del producto: 6 Nombre del producto: parma ham Cantidad del producto: 5 
+Encabezado: 7
+Customer ID: 100.75 Cantidad: Tue Oct 06 09:00:00 CDT 2020 Fecha de creación: 10 Número de confirmación: 
+ID del producto: 1 Nombre del producto: milk Cantidad del producto: 5 
+ID del producto: 2 Nombre del producto: cheese Cantidad del producto: 5 
+ID del producto: 3 Nombre del producto: butter Cantidad del producto: 5 
+ID del producto: 4 Nombre del producto: free range eggs Cantidad del producto: 5 
+ID del producto: 5 Nombre del producto: organic meat patties Cantidad del producto: 5 
+ID del producto: 6 Nombre del producto: parma ham Cantidad del producto: 5 
+Encabezado: 8
+Customer ID: 100.75 Cantidad: Tue Oct 06 09:00:00 CDT 2020 Fecha de creación: 10 Número de confirmación: 
+ID del producto: 1 Nombre del producto: milk Cantidad del producto: 5 
+ID del producto: 2 Nombre del producto: cheese Cantidad del producto: 5 
+ID del producto: 3 Nombre del producto: butter Cantidad del producto: 5 
+ID del producto: 4 Nombre del producto: free range eggs Cantidad del producto: 5 
+ID del producto: 5 Nombre del producto: organic meat patties Cantidad del producto: 5 
+ID del producto: 6 Nombre del producto: parma ham Cantidad del producto: 5 
+Encabezado: 9
+Customer ID: 100.75 Cantidad: Tue Oct 06 09:00:00 CDT 2020 Fecha de creación: 10 Número de confirmación: 
+ID del producto: 1 Nombre del producto: milk Cantidad del producto: 5 
+ID del producto: 2 Nombre del producto: cheese Cantidad del producto: 5 
+ID del producto: 3 Nombre del producto: butter Cantidad del producto: 5 
+ID del producto: 4 Nombre del producto: free range eggs Cantidad del producto: 5 
+ID del producto: 5 Nombre del producto: organic meat patties Cantidad del producto: 5 
+ID del producto: 6 Nombre del producto: parma ham Cantidad del producto: 5 
+Encabezado: 10
+Customer ID: 100.75 Cantidad: Tue Oct 06 09:00:00 CDT 2020 Fecha de creación: 10 Número de confirmación: 
+ID del producto: 1 Nombre del producto: milk Cantidad del producto: 5 
+ID del producto: 2 Nombre del producto: cheese Cantidad del producto: 5 
+ID del producto: 3 Nombre del producto: butter Cantidad del producto: 5 
+ID del producto: 4 Nombre del producto: free range eggs Cantidad del producto: 5 
+ID del producto: 5 Nombre del producto: organic meat patties Cantidad del producto: 5 
+ID del producto: 6 Nombre del producto: parma ham Cantidad del producto: 5 
+Encabezado: 11
+Customer ID: 100.75 Cantidad: Tue Oct 06 09:00:00 CDT 2020 Fecha de creación: 10 Número de confirmación: 
+ID del producto: 1 Nombre del producto: milk Cantidad del producto: 5 
+ID del producto: 2 Nombre del producto: cheese Cantidad del producto: 5 
+ID del producto: 3 Nombre del producto: butter Cantidad del producto: 5 
+ID del producto: 4 Nombre del producto: free range eggs Cantidad del producto: 5 
+ID del producto: 5 Nombre del producto: organic meat patties Cantidad del producto: 5 
+ID del producto: 6 Nombre del producto: parma ham Cantidad del producto: 5 
+Encabezado: 14
+Customer ID: 40.00 Cantidad: Tue Nov 10 11:36:29 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 40 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 41 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 42 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 15
+Customer ID: 80.00 Cantidad: Tue Nov 10 11:36:29 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 40 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 41 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 42 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 16
+Customer ID: 40.00 Cantidad: Tue Nov 10 11:54:27 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 43 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 44 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 45 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 17
+Customer ID: 80.00 Cantidad: Tue Nov 10 11:54:27 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 43 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 44 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 45 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 18
+Customer ID: 40.00 Cantidad: Tue Nov 10 11:54:55 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 46 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 47 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 48 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 19
+Customer ID: 80.00 Cantidad: Tue Nov 10 11:54:55 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 46 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 47 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 48 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 20
+Customer ID: 40.00 Cantidad: Tue Nov 10 11:55:48 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 49 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 50 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 51 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 21
+Customer ID: 80.00 Cantidad: Tue Nov 10 11:55:48 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 49 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 50 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 51 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 22
+Customer ID: 40.00 Cantidad: Tue Nov 10 11:56:25 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 52 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 53 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 54 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 23
+Customer ID: 80.00 Cantidad: Tue Nov 10 11:56:25 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 52 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 53 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 54 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 24
+Customer ID: 40.00 Cantidad: Tue Nov 10 11:56:35 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 55 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 56 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 57 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 25
+Customer ID: 80.00 Cantidad: Tue Nov 10 11:56:35 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 55 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 56 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 57 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 26
+Customer ID: 40.00 Cantidad: Tue Nov 10 11:59:23 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 58 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 59 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 60 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 27
+Customer ID: 80.00 Cantidad: Tue Nov 10 11:59:23 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 58 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 59 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 60 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 28
+Customer ID: 40.00 Cantidad: Tue Nov 10 12:03:49 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 61 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 62 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 63 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 29
+Customer ID: 80.00 Cantidad: Tue Nov 10 12:03:49 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 61 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 62 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 63 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 30
+Customer ID: 40.00 Cantidad: Tue Nov 10 12:06:59 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 64 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 65 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 66 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 31
+Customer ID: 80.00 Cantidad: Tue Nov 10 12:06:59 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 64 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 65 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 66 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 32
+Customer ID: 40.00 Cantidad: Tue Nov 10 12:07:15 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 67 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 68 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 69 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 33
+Customer ID: 80.00 Cantidad: Tue Nov 10 12:07:15 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 67 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 68 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 69 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 34
+Customer ID: 40.00 Cantidad: Tue Nov 10 12:08:46 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 70 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 71 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 72 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 35
+Customer ID: 80.00 Cantidad: Tue Nov 10 12:08:46 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 70 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 71 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 72 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 36
+Customer ID: 40.00 Cantidad: Tue Nov 10 12:11:06 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 73 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 74 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 75 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 37
+Customer ID: 80.00 Cantidad: Tue Nov 10 12:11:06 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 73 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 74 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 75 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 38
+Customer ID: 40.00 Cantidad: Tue Nov 10 12:16:06 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 76 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 77 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 78 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 39
+Customer ID: 80.00 Cantidad: Tue Nov 10 12:16:06 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 76 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 77 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 78 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 40
+Customer ID: 40.00 Cantidad: Tue Nov 10 12:22:00 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 79 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 80 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 81 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 41
+Customer ID: 80.00 Cantidad: Tue Nov 10 12:22:00 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 79 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 80 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 81 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 42
+Customer ID: 40.00 Cantidad: Tue Nov 10 12:22:58 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 82 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 83 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 84 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 43
+Customer ID: 80.00 Cantidad: Tue Nov 10 12:22:58 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 82 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 83 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 84 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 44
+Customer ID: 40.00 Cantidad: Tue Nov 10 12:23:33 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 85 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 86 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 87 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 45
+Customer ID: 80.00 Cantidad: Tue Nov 10 12:23:33 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 85 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 86 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 87 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 46
+Customer ID: 40.00 Cantidad: Tue Nov 10 12:25:50 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 88 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 89 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 90 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 47
+Customer ID: 80.00 Cantidad: Tue Nov 10 12:25:50 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 88 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 89 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 90 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 48
+Customer ID: 40.00 Cantidad: Tue Nov 10 12:26:46 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 91 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 92 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 93 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 49
+Customer ID: 80.00 Cantidad: Tue Nov 10 12:26:46 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 91 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 92 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 93 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 50
+Customer ID: 40.00 Cantidad: Tue Nov 10 12:27:08 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 94 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 95 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 96 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 51
+Customer ID: 80.00 Cantidad: Tue Nov 10 12:27:08 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 94 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 95 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 96 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 52
+Customer ID: 40.00 Cantidad: Tue Nov 10 12:27:22 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 97 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 98 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 99 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 53
+Customer ID: 80.00 Cantidad: Tue Nov 10 12:27:22 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 97 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 98 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 99 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 54
+Customer ID: 40.00 Cantidad: Tue Nov 10 12:27:45 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 100 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 101 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 102 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 55
+Customer ID: 80.00 Cantidad: Tue Nov 10 12:27:45 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 100 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 101 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 102 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 56
+Customer ID: 40.00 Cantidad: Tue Nov 10 12:27:55 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 103 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 104 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 105 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 57
+Customer ID: 80.00 Cantidad: Tue Nov 10 12:27:55 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 103 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 104 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 105 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 58
+Customer ID: 40.00 Cantidad: Tue Nov 10 12:29:56 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 106 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 107 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 108 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 59
+Customer ID: 80.00 Cantidad: Tue Nov 10 12:29:56 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 106 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 107 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 108 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 60
+Customer ID: 40.00 Cantidad: Sat Nov 14 09:27:28 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 109 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 110 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 111 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 61
+Customer ID: 80.00 Cantidad: Sat Nov 14 09:27:28 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 109 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 110 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 111 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 62
+Customer ID: 40.00 Cantidad: Sat Nov 14 11:43:44 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 112 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 113 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 114 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 63
+Customer ID: 80.00 Cantidad: Sat Nov 14 11:43:44 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 112 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 113 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 114 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 64
+Customer ID: 40.00 Cantidad: Sat Nov 14 11:45:59 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 115 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 116 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 117 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 65
+Customer ID: 80.00 Cantidad: Sat Nov 14 11:45:59 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 115 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 116 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 117 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 66
+Customer ID: 40.00 Cantidad: Sat Nov 14 11:47:59 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 118 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 119 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 120 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 67
+Customer ID: 80.00 Cantidad: Sat Nov 14 11:47:59 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 118 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 119 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 120 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 68
+Customer ID: 40.00 Cantidad: Sat Nov 14 11:51:26 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 121 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 122 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 123 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 69
+Customer ID: 80.00 Cantidad: Sat Nov 14 11:51:26 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 121 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 122 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 123 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 70
+Customer ID: 100.75 Cantidad: Tue Oct 06 09:00:00 CDT 2020 Fecha de creación: 10 Número de confirmación: 
+ID del producto: 1 Nombre del producto: milk Cantidad del producto: 5 
+ID del producto: 2 Nombre del producto: cheese Cantidad del producto: 5 
+ID del producto: 3 Nombre del producto: butter Cantidad del producto: 5 
+ID del producto: 4 Nombre del producto: free range eggs Cantidad del producto: 5 
+ID del producto: 5 Nombre del producto: organic meat patties Cantidad del producto: 5 
+ID del producto: 6 Nombre del producto: parma ham Cantidad del producto: 5 
+Encabezado: 71
+Customer ID: 40.00 Cantidad: Sat Nov 14 12:26:30 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 125 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 126 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 127 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 72
+Customer ID: 80.00 Cantidad: Sat Nov 14 12:26:30 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 125 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 126 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 127 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 73
+Customer ID: 40.00 Cantidad: Sat Nov 14 12:28:32 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 128 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 129 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 130 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 74
+Customer ID: 80.00 Cantidad: Sat Nov 14 12:28:32 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 128 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 129 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 130 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 75
+Customer ID: 40.00 Cantidad: Sat Nov 14 12:31:59 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 131 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 132 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 133 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 76
+Customer ID: 80.00 Cantidad: Sat Nov 14 12:31:59 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 131 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 132 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 133 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 77
+Customer ID: 40.00 Cantidad: Sat Nov 14 12:48:45 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 134 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 135 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 136 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 78
+Customer ID: 80.00 Cantidad: Sat Nov 14 12:48:45 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 134 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 135 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 136 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 79
+Customer ID: 40.00 Cantidad: Sat Nov 14 12:49:20 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 137 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 138 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 139 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 80
+Customer ID: 80.00 Cantidad: Sat Nov 14 12:49:20 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 137 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 138 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 139 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 81
+Customer ID: 40.00 Cantidad: Sat Nov 14 12:50:41 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 140 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 141 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 142 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 82
+Customer ID: 80.00 Cantidad: Sat Nov 14 12:50:41 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 140 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 141 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 142 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 83
+Customer ID: 40.00 Cantidad: Sat Nov 14 12:51:41 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 143 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 144 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 145 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 84
+Customer ID: 80.00 Cantidad: Sat Nov 14 12:51:41 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 143 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 144 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 145 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 85
+Customer ID: 40.00 Cantidad: Sat Nov 14 12:53:13 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 146 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 147 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 148 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 86
+Customer ID: 80.00 Cantidad: Sat Nov 14 12:53:13 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 146 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 147 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 148 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 87
+Customer ID: 40.00 Cantidad: Sat Nov 14 12:55:20 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 149 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 150 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 151 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 88
+Customer ID: 80.00 Cantidad: Sat Nov 14 12:55:20 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 149 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 150 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 151 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 89
+Customer ID: 40.00 Cantidad: Sat Nov 14 12:58:55 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 152 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 153 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 154 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 90
+Customer ID: 80.00 Cantidad: Sat Nov 14 12:58:55 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 152 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 153 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 154 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 91
+Customer ID: 40.00 Cantidad: Sat Nov 14 13:13:52 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 155 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 156 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 157 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 92
+Customer ID: 80.00 Cantidad: Sat Nov 14 13:13:52 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 155 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 156 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 157 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 93
+Customer ID: 40.00 Cantidad: Sat Nov 14 13:31:07 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 158 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 159 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 160 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 94
+Customer ID: 80.00 Cantidad: Sat Nov 14 13:31:07 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 158 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 159 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 160 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 95
+Customer ID: 40.00 Cantidad: Sat Nov 14 13:32:28 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 161 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 162 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 163 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 96
+Customer ID: 80.00 Cantidad: Sat Nov 14 13:32:28 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 161 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 162 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 163 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 97
+Customer ID: 40.00 Cantidad: Sat Nov 14 13:42:37 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 164 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 165 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 166 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 98
+Customer ID: 80.00 Cantidad: Sat Nov 14 13:42:37 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 164 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 165 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 166 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 99
+Customer ID: 40.00 Cantidad: Sat Nov 14 13:52:26 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 167 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 168 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 169 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 100
+Customer ID: 80.00 Cantidad: Sat Nov 14 13:52:26 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 167 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 168 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 169 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 101
+Customer ID: 40.00 Cantidad: Sat Nov 14 14:04:26 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 170 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 171 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 172 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 102
+Customer ID: 80.00 Cantidad: Sat Nov 14 14:04:26 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 170 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 171 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 172 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 103
+Customer ID: 40.00 Cantidad: Sat Nov 14 14:04:53 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 173 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 174 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 175 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 104
+Customer ID: 80.00 Cantidad: Sat Nov 14 14:04:53 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 173 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 174 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 175 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 105
+Customer ID: 40.00 Cantidad: Sat Nov 14 14:05:53 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 176 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 177 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 178 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 106
+Customer ID: 80.00 Cantidad: Sat Nov 14 14:05:53 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 176 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 177 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 178 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 107
+Customer ID: 40.00 Cantidad: Sat Nov 14 14:06:02 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 179 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 180 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 181 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 108
+Customer ID: 80.00 Cantidad: Sat Nov 14 14:06:02 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 179 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 180 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 181 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 109
+Customer ID: 40.00 Cantidad: Sat Nov 14 14:06:14 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 182 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 183 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 184 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 110
+Customer ID: 80.00 Cantidad: Sat Nov 14 14:06:14 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 182 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 183 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 184 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 111
+Customer ID: 40.00 Cantidad: Sat Nov 14 14:13:19 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 185 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 186 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 187 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 112
+Customer ID: 80.00 Cantidad: Sat Nov 14 14:13:19 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 185 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 186 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 187 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 113
+Customer ID: 40.00 Cantidad: Sat Nov 14 14:15:21 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 188 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 189 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 190 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 114
+Customer ID: 80.00 Cantidad: Sat Nov 14 14:15:21 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 188 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 189 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 190 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 115
+Customer ID: 40.00 Cantidad: Sat Nov 14 14:16:17 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 191 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 192 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 193 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 116
+Customer ID: 80.00 Cantidad: Sat Nov 14 14:16:17 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 191 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 192 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 193 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+Encabezado: 117
+Customer ID: 40.00 Cantidad: Sat Nov 14 14:16:32 CST 2020 Fecha de creación: 1 Número de confirmación: 
+ID del producto: 194 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 5 
+ID del producto: 195 Nombre del producto: Prod_Altamirano Cantidad del producto: 5 
+ID del producto: 196 Nombre del producto: Prod_Zevallos Cantidad del producto: 5 
+Encabezado: 118
+Customer ID: 80.00 Cantidad: Sat Nov 14 14:16:32 CST 2020 Fecha de creación: 2 Número de confirmación: 
+ID del producto: 194 Nombre del producto: Prod_Jose Francisco Cantidad del producto: 10 
+ID del producto: 195 Nombre del producto: Prod_Altamirano Cantidad del producto: 10 
+ID del producto: 196 Nombre del producto: Prod_Zevallos Cantidad del producto: 10 
+
+El monto total de los pedidos es: 7569.00
